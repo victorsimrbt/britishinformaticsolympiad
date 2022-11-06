@@ -1,0 +1,3 @@
+Look more into BFS
+
+Try to figure out how to implement in C++

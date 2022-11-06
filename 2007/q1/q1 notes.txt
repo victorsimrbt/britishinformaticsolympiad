@@ -1,0 +1,29 @@
+1a)
+
+Questions:
+[1] 3 3 3 2 10 X
+[2] 3 4 7 9 10 X
+[2] 7 9 2 2 10 X
+[2] 2 7 9 10 2 X
+[2] 2 2 3 3 4  O X
+[2] 7 6 6 6 10 X
+[2] 1 6 2 4 9  O X
+[2] 1 8 2 3 9  O X
+[2] 2 2 7 8 2  O X
+[2] 5 5 10 5 5 X X X O
+
+Notes:
+- Used Recursion first but then tried using combinations instead
+- Lesson learnt to use recursion as last resort
+- Test brute force ez method first. I forgot that the constraint is that there are only 5 numbers
+
+1b) 1,2,7,9,10
+
+Notes:
+- Always use programs to solve word problems
+
+1c) 28
+
+Note:
+- Read the question brief really carefully
+

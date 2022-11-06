@@ -1,0 +1,1 @@
+# Direct paths are defined as paths that can be expressed as either a distance of 2^n or 2^n + 1
