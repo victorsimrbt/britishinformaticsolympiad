@@ -1,0 +1,1 @@
+# British Informatics Olympiad Solutions
