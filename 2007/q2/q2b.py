@@ -49,30 +49,4 @@ def get_move(orig_board,char):
                 can_lose = True
     return legal_moves(orig_board,char)[0]
     
-turn = 0
-board = input()
-while True:
-    command = input()
-    if command == "n":
-        if get_result(board,players[turn%2]) == False:
-            print("Player {} wins".format(2-turn%2))
-            break
-        board = get_move(board,players[turn%2])
-        game_states.add(board)
-        turn += 1
-        print(board)
-    if get_result(board,players[turn%2]) == False:
-        print("Player {} wins".format(2-turn%2))
-        break
-    elif command == "r":
-        while True:
-            if get_result(board,players[turn%2]) == False:
-                print(board)
-                print("Player {} wins".format(2-turn%2))
-                exit()
-            board = get_move(board,players[turn%2])
-            if board in game_states:
-                print("Draw")
-                exit()
-            game_states.add(board)
-            turn += 1
+print(legal_moves("XEOXXXOOO","O"))

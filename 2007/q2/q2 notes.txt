@@ -1,3 +1,17 @@
-REALLY REALLY ANNOYING TO THINK ABOUT 
+1a) only worked in the reredux (FULL MARKS)
+    shows improvement in coding skills
+    
+    issue:
+        - failed test cases first time
+    solution:
+        - test each component against every possibility
+        - use pseudocode to fix/plan
 
-plan: httpplay with working with the representation directly
+b) ['XOEXXXOOO', 'XOOXXXOOE'] 
+simple given that a is created correctly (FULL MARKS)
+
+c) No. Win happens when surrounded by opposing pieces. Cannot surround by both (FULL MARKS)
+
+
+d) idk bro 
+

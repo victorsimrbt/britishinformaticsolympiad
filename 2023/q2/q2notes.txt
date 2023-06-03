@@ -1,0 +1,6 @@
+a) so annoying. algorithm was perfect but didnt put all blocks in the list so bye bye 10 marks
+b) easy with matplotlib visuals
+c) annoying to refactor code. think really carefully
+d) just cant seem to get it just right
+
+EVERY STEP IS DERIVED FROM THE NEXT.
