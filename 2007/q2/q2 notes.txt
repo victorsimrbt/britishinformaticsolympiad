@@ -1,3 +1,6 @@
 REALLY REALLY ANNOYING TO THINK ABOUT 
 
 plan: httpplay with working with the representation directly
+
+Solved. Be careful whe nreading instructions, dont make random assumptions
+

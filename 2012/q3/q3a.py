@@ -19,7 +19,7 @@ def is_neighbour(string_1,string_2):
     return [True if sum(operations) <= 5 else False][0]
 
 def generate_neighbours(string):
-    return [option for option in options if is_neighbour(string,option)]
+    return [option for option in options if abs(len(option)-len(string)) <= 5 and is_neighbour(string,option)]
 
 queue = []
 visited = []
@@ -29,14 +29,19 @@ def bfs(node,target):
     target = num2string(target)
     queue = [[node,1]]
     end = False
-    for val in queue:
-        string = val[0]
-        distance = val[1]
+    visited = set()
+    head = 0
+    while head < len(queue):
+        string = queue[head][0]
+        distance = queue[head][1]
+        head += 1
         
         neighbours = generate_neighbours(string)
+        #print(neighbours)
         for neighbour in neighbours:
-            if neighbour not in visited and len(neighbour) == len(target):
+            if neighbour not in visited:
                 queue.append([neighbour,distance+1])
+                visited.add(neighbour)
             if neighbour == target:
                 print(distance)
                 end = True
@@ -44,7 +49,7 @@ def bfs(node,target):
             
         if end == True:
             break
-
+    # print(queue)
 params = []
 for i in range(3):
     params.append([int(value) for value in input().split()])

@@ -1,3 +1,4 @@
 Look more into BFS
 
+USE FUCKING SET!!!! Speed ip by 4x
 Try to figure out how to implement in C++
