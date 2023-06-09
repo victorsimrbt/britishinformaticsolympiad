@@ -100,37 +100,37 @@ board = Board()
 
 starting_layout = input()
 board.assert_layout(starting_layout)
-print([space.idx for space in board.spaces[-1].adjacent])
-print(board.spaces[1].idx,board.spaces[1].marker)
-print(board.legal_moves("X"))
-move = board.make_move("X")
-board.play_move(move)
-print(board.print_board())
-# while True:
-#     order = input()
-#     if order == "n":
-#         print(board.print_board())
-#         if (not(board.legal_moves(turn))):
-#             if turn == "O":
-#                 print("Player 2 wins")
-#             else:
-#                 print("Player 1 wins")
-#             exit(0)
-#         print(board.legal_moves(turn))
-#         move = board.make_move(turn)
-#         board.play_move(move)
-#         print(move)
-#         print(board.print_board())
-#         turn = other_turn[turn]
-#     elif order == "r":
-#         while True:
-#             if (not(board.legal_moves(turn))):
-#                 print(board.print_board())
-#                 exit(0)
-#             move = board.make_move(turn)
-#             board.play_move(move)
-#             print(move)
-#             print(board.print_board())
-#             turn = other_turn[turn]
+# print([space.idx for space in board.spaces[-1].adjacent])
+# print(board.spaces[1].idx,board.spaces[1].marker)
+# print(board.legal_moves("X"))
+# move = board.make_move("X")
+# board.play_move(move)
+# print(board.print_board())
+while True:
+    order = input()
+    if order == "n":
+        print(board.print_board())
+        if (not(board.legal_moves(turn))):
+            if turn == "O":
+                print("Player 2 wins")
+            else:
+                print("Player 1 wins")
+            exit(0)
+        print(board.legal_moves(turn))
+        move = board.make_move(turn)
+        board.play_move(move)
+        print(move)
+        print(board.print_board())
+        turn = other_turn[turn]
+    elif order == "r":
+        while True:
+            if (not(board.legal_moves(turn))):
+                print(board.print_board())
+                exit(0)
+            move = board.make_move(turn)
+            board.play_move(move)
+            print(move)
+            print(board.print_board())
+            turn = other_turn[turn]
 
             

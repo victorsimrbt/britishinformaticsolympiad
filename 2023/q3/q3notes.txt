@@ -1,0 +1,9 @@
+a) ez
+b) annoying
+4 *3 * 4! = 288
+Must be in form AB 0 C D
+First 4 for number of ways to put empty space
+3 is where the extra value is stored
+4 factorial is redistributing the 4 blocks
+c) think about what makes the question possibly hard/complicated
+d) 
