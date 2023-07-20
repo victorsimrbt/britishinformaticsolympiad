@@ -1,3 +1,2 @@
-Look more into BFS
-
-Try to figure out how to implement in C++
+3a) (FULL MARKS)
+ b) 

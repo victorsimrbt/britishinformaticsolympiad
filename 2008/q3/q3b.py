@@ -37,9 +37,9 @@ for perm in permutation:
     result = [1,2,3,4,5,6]
     for operation in perm:
         result = operation(result)
-    if result not in possibilities:
+    if ''.join([str(val) for val in result]) not in possibilities:
         count += 1
-    possibilities.append(result)
-print(count)
+        possibilities.append(''.join([str(val) for val in result]))
+print(len(possibilities))
 
 

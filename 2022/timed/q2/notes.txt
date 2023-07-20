@@ -1,0 +1,13 @@
+2a) 
+
+1 + 1 + 2 + 2 + 2 + 2 + 2 + 1 + 2 + 2 + 2 + 2 + 2 + 2 + 2
+
+27/27
+
+b) 3/3
+
+c) 0/4 Actually really easy
+
+probably get 2 marks if RTQ
+
+be sure to reset all variables

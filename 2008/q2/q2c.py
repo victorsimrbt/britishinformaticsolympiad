@@ -21,6 +21,17 @@ class Rotor:
         self.config = dict(sorted(zip(new_keys,new_values)))
         
 all_configs = [dict(zip(list(turn_dict.keys()),permutation)) for permutation in permutations("ABCD")]
+rotor1_config = {
+    "A":"A",
+    "B":"D",
+    "C":"B",
+    "D":"C"
+    }
+rotor = Rotor(rotor1_config)
+rotor.turn()
+print(rotor.config)
+rotor.turn()
+print(rotor.config)
 
 print("ONE ROTOR")
 working_configs = []
@@ -48,21 +59,25 @@ for config in all_configs:
     rotor1 =  Rotor(config[0])
     rotor2 =  Rotor(config[1])
     
-    last_config = config[0]
-    for i in range(100):
+    encrypted = []
+    combine_dict = {}
+    for key in list(rotor1.config.keys()):
+        combine_dict[key] = rotor2.config[rotor1.config[key]]
+    prev_dict = combine_dict
+    for i in range(16):
         rotor1.turn()
-        if rotor1.config != last_config:
+        if (i+1) % 4 == 0:
+            rotor2.turn()
+            
+        combine_dict = {}
+        for key in list(rotor1.config.keys()):
+            combine_dict[key] = rotor2.config[rotor1.config[key]]
+        if combine_dict != prev_dict:
             fail = True
             break
-        last_config = rotor1.config
-    
-    last_config = config[1]
-    for i in range(4):
-        rotor2.turn()
-        if rotor2.config != last_config:
-            fail = True
-            break
-        last_config = rotor2.config
-        
+        prev_dict = combine_dict
     if not(fail):
-        print(config[0].values(),config[1].values())
+        working_configs.append(config)
+        print(rotor1.config)
+        print(rotor2.config)
+        print()

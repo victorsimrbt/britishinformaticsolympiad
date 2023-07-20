@@ -1,0 +1,13308 @@
+testing with 1 1
+R 1 1
+B 25 6
+
+R 2 2
+B 1 5
+
+R 3 3
+B 2 4
+
+R 4 4
+B 3 3
+SWITCH OWNERSHIP
+
+MAX 1 1 4
+MIN 1 1 4
+4
+testing with 1 2
+R 1 1
+B 25 6
+
+R 2 2
+B 2 5
+
+R 3 3
+B 4 4
+SWITCH OWNERSHIP
+
+MIN 1 2 3
+3
+testing with 1 3
+R 1 1
+B 25 6
+
+R 2 2
+B 3 5
+SWITCH OWNERSHIP
+
+MIN 1 3 2
+2
+testing with 1 4
+R 1 1
+B 25 6
+
+R 2 2
+B 4 5
+SWITCH OWNERSHIP
+
+2
+testing with 1 5
+R 1 1
+B 25 6
+
+R 2 2
+B 5 5
+
+R 3 3
+B 10 4
+
+R 4 4
+B 15 3
+
+R 5 5
+B 20 2
+SWITCH OWNERSHIP
+
+MAX 1 5 5
+5
+testing with 1 6
+R 1 1
+B 25 6
+
+R 2 2
+B 6 5
+
+R 3 3
+B 12 4
+
+R 4 4
+B 18 3
+
+R 5 5
+B 24 2
+
+R 6 6
+B 5 1
+
+R 7 1
+B 11 6
+
+R 8 2
+B 17 5
+
+R 9 3
+B 23 4
+
+R 10 4
+B 4 3
+SWITCH OWNERSHIP
+
+MAX 1 6 10
+10
+testing with 1 7
+R 1 1
+B 25 6
+
+R 2 2
+B 7 5
+
+R 3 3
+B 14 4
+
+R 4 4
+B 21 3
+
+R 5 5
+B 3 2
+
+R 6 6
+B 10 1
+
+R 7 1
+B 17 6
+
+R 8 2
+B 24 5
+
+R 9 3
+B 6 4
+
+R 10 4
+B 13 3
+
+R 11 5
+B 20 2
+
+R 12 6
+B 2 1
+
+R 13 1
+B 9 6
+
+R 14 2
+B 16 5
+
+R 15 3
+B 23 4
+SWITCH OWNERSHIP
+
+MAX 1 7 15
+15
+testing with 1 8
+R 1 1
+B 25 6
+
+R 2 2
+B 8 5
+
+R 3 3
+B 16 4
+
+R 4 4
+B 24 3
+
+R 5 5
+B 7 2
+
+R 6 6
+B 15 1
+SWITCH OWNERSHIP
+
+6
+testing with 1 9
+R 1 1
+B 25 6
+
+R 2 2
+B 9 5
+SWITCH OWNERSHIP
+
+2
+testing with 1 10
+R 1 1
+B 25 6
+
+R 2 2
+B 10 5
+
+R 3 3
+B 20 4
+
+R 4 4
+B 5 3
+
+R 5 5
+B 15 2
+
+R 6 6
+B 25 1
+
+R 7 1
+B 10 6
+
+R 8 2
+B 20 5
+SWITCH OWNERSHIP
+
+8
+testing with 1 11
+R 1 1
+B 25 6
+
+R 2 2
+B 11 5
+SWITCH OWNERSHIP
+
+2
+testing with 1 12
+R 1 1
+B 25 6
+
+R 2 2
+B 12 5
+
+R 3 3
+B 24 4
+
+R 4 4
+B 11 3
+
+R 5 5
+B 23 2
+
+R 6 6
+B 10 1
+
+R 7 1
+B 22 6
+
+R 8 2
+B 9 5
+SWITCH OWNERSHIP
+
+8
+testing with 1 13
+R 1 1
+B 25 6
+
+R 2 2
+B 13 5
+
+R 3 3
+B 1 4
+
+R 4 4
+B 14 3
+
+R 5 5
+B 2 2
+SWITCH OWNERSHIP
+
+5
+testing with 1 14
+R 1 1
+B 25 6
+
+R 2 2
+B 14 5
+SWITCH OWNERSHIP
+
+2
+testing with 1 15
+R 1 1
+B 25 6
+
+R 2 2
+B 15 5
+SWITCH OWNERSHIP
+
+2
+testing with 1 16
+R 1 1
+B 25 6
+
+R 2 2
+B 16 5
+
+R 3 3
+B 7 4
+
+R 4 4
+B 23 3
+
+R 5 5
+B 14 2
+
+R 6 6
+B 5 1
+
+R 7 1
+B 21 6
+
+R 8 2
+B 12 5
+SWITCH OWNERSHIP
+
+8
+testing with 1 17
+R 1 1
+B 25 6
+
+R 2 2
+B 17 5
+
+R 3 3
+B 9 4
+
+R 4 4
+B 1 3
+SWITCH OWNERSHIP
+
+4
+testing with 1 18
+R 1 1
+B 25 6
+
+R 2 2
+B 18 5
+
+R 3 3
+B 11 4
+
+R 4 4
+B 4 3
+
+R 5 5
+B 22 2
+
+R 6 6
+B 15 1
+SWITCH OWNERSHIP
+
+6
+testing with 1 19
+R 1 1
+B 25 6
+
+R 2 2
+B 19 5
+
+R 3 3
+B 13 4
+
+R 4 4
+B 7 3
+
+R 5 5
+B 1 2
+
+R 6 6
+B 20 1
+
+R 7 1
+B 14 6
+
+R 8 2
+B 8 5
+
+R 9 3
+B 2 4
+
+R 10 4
+B 21 3
+SWITCH OWNERSHIP
+
+10
+testing with 1 20
+R 1 1
+B 25 6
+
+R 2 2
+B 20 5
+
+R 3 3
+B 15 4
+
+R 4 4
+B 10 3
+
+R 5 5
+B 5 2
+
+R 6 6
+B 25 1
+
+R 7 1
+B 20 6
+SWITCH OWNERSHIP
+
+7
+testing with 1 21
+R 1 1
+B 25 6
+
+R 2 2
+B 21 5
+
+R 3 3
+B 17 4
+
+R 4 4
+B 13 3
+
+R 5 5
+B 9 2
+
+R 6 6
+B 5 1
+
+R 7 1
+B 1 6
+
+R 8 2
+B 22 5
+
+R 9 3
+B 18 4
+
+R 10 4
+B 14 3
+
+R 11 5
+B 10 2
+SWITCH OWNERSHIP
+
+11
+testing with 1 22
+R 1 1
+B 25 6
+
+R 2 2
+B 22 5
+
+R 3 3
+B 19 4
+
+R 4 4
+B 16 3
+
+R 5 5
+B 13 2
+
+R 6 6
+B 10 1
+
+R 7 1
+B 7 6
+
+R 8 2
+B 4 5
+
+R 9 3
+B 1 4
+
+R 10 4
+B 23 3
+
+R 11 5
+B 20 2
+
+R 12 6
+B 17 1
+
+R 13 1
+B 14 6
+
+R 14 2
+B 11 5
+SWITCH OWNERSHIP
+
+14
+testing with 1 23
+R 1 1
+B 25 6
+
+R 2 2
+B 23 5
+
+R 3 3
+B 21 4
+
+R 4 4
+B 19 3
+
+R 5 5
+B 17 2
+
+R 6 6
+B 15 1
+SWITCH OWNERSHIP
+
+6
+testing with 1 24
+R 1 1
+B 25 6
+
+R 2 2
+B 24 5
+
+R 3 3
+B 23 4
+
+R 4 4
+B 22 3
+
+R 5 5
+B 21 2
+
+R 6 6
+B 20 1
+
+R 7 1
+B 19 6
+
+R 8 2
+B 18 5
+
+R 9 3
+B 17 4
+
+R 10 4
+B 16 3
+SWITCH OWNERSHIP
+
+10
+testing with 1 25
+R 1 1
+B 25 6
+
+R 2 2
+B 25 5
+
+R 3 3
+B 25 4
+
+R 4 4
+B 25 3
+
+R 5 5
+B 25 2
+
+R 6 6
+B 25 1
+
+R 7 1
+B 25 6
+
+R 8 2
+B 25 5
+
+R 9 3
+B 25 4
+
+R 10 4
+B 25 3
+
+R 11 5
+B 25 2
+
+R 12 6
+B 25 1
+
+R 13 1
+B 25 6
+
+R 14 2
+B 25 5
+
+R 15 3
+B 25 4
+SWITCH OWNERSHIP
+
+15
+testing with 2 1
+R 1 1
+B 25 6
+
+R 3 2
+B 1 5
+SWITCH OWNERSHIP
+
+2
+testing with 2 2
+R 1 1
+B 25 6
+
+R 3 2
+B 2 5
+
+R 5 3
+B 4 4
+SWITCH OWNERSHIP
+
+3
+testing with 2 3
+R 1 1
+B 25 6
+
+R 3 2
+B 3 5
+SWITCH OWNERSHIP
+
+2
+testing with 2 4
+R 1 1
+B 25 6
+
+R 3 2
+B 4 5
+SWITCH OWNERSHIP
+
+2
+testing with 2 5
+R 1 1
+B 25 6
+
+R 3 2
+B 5 5
+SWITCH OWNERSHIP
+
+2
+testing with 2 6
+R 1 1
+B 25 6
+
+R 3 2
+B 6 5
+
+R 5 3
+B 12 4
+
+R 7 4
+B 18 3
+SWITCH OWNERSHIP
+
+4
+testing with 2 7
+R 1 1
+B 25 6
+
+R 3 2
+B 7 5
+
+R 5 3
+B 14 4
+
+R 7 4
+B 21 3
+
+R 9 5
+B 3 2
+SWITCH OWNERSHIP
+
+5
+testing with 2 8
+R 1 1
+B 25 6
+
+R 3 2
+B 8 5
+SWITCH OWNERSHIP
+
+2
+testing with 2 9
+R 1 1
+B 25 6
+
+R 3 2
+B 9 5
+SWITCH OWNERSHIP
+
+2
+testing with 2 10
+R 1 1
+B 25 6
+
+R 3 2
+B 10 5
+
+R 5 3
+B 20 4
+
+R 7 4
+B 5 3
+SWITCH OWNERSHIP
+
+4
+testing with 2 11
+R 1 1
+B 25 6
+
+R 3 2
+B 11 5
+SWITCH OWNERSHIP
+
+2
+testing with 2 12
+R 1 1
+B 25 6
+
+R 3 2
+B 12 5
+
+R 5 3
+B 24 4
+SWITCH OWNERSHIP
+
+3
+testing with 2 13
+R 1 1
+B 25 6
+
+R 3 2
+B 13 5
+
+R 5 3
+B 1 4
+
+R 7 4
+B 14 3
+
+R 9 5
+B 2 2
+SWITCH OWNERSHIP
+
+5
+testing with 2 14
+R 1 1
+B 25 6
+
+R 3 2
+B 14 5
+
+R 5 3
+B 3 4
+SWITCH OWNERSHIP
+
+3
+testing with 2 15
+R 1 1
+B 25 6
+
+R 3 2
+B 15 5
+SWITCH OWNERSHIP
+
+2
+testing with 2 16
+R 1 1
+B 25 6
+
+R 3 2
+B 16 5
+
+R 5 3
+B 7 4
+SWITCH OWNERSHIP
+
+3
+testing with 2 17
+R 1 1
+B 25 6
+
+R 3 2
+B 17 5
+
+R 5 3
+B 9 4
+
+R 7 4
+B 1 3
+SWITCH OWNERSHIP
+
+4
+testing with 2 18
+R 1 1
+B 25 6
+
+R 3 2
+B 18 5
+
+R 5 3
+B 11 4
+
+R 7 4
+B 4 3
+
+R 9 5
+B 22 2
+
+R 11 6
+B 15 1
+SWITCH OWNERSHIP
+
+6
+testing with 2 19
+R 1 1
+B 25 6
+
+R 3 2
+B 19 5
+
+R 5 3
+B 13 4
+
+R 7 4
+B 7 3
+
+R 9 5
+B 1 2
+
+R 11 6
+B 20 1
+
+R 13 1
+B 14 6
+
+R 15 2
+B 8 5
+SWITCH OWNERSHIP
+
+8
+testing with 2 20
+R 1 1
+B 25 6
+
+R 3 2
+B 20 5
+
+R 5 3
+B 15 4
+
+R 7 4
+B 10 3
+
+R 9 5
+B 5 2
+
+R 11 6
+B 25 1
+
+R 13 1
+B 20 6
+SWITCH OWNERSHIP
+
+7
+testing with 2 21
+R 1 1
+B 25 6
+
+R 3 2
+B 21 5
+
+R 5 3
+B 17 4
+
+R 7 4
+B 13 3
+
+R 9 5
+B 9 2
+
+R 11 6
+B 5 1
+
+R 13 1
+B 1 6
+
+R 15 2
+B 22 5
+
+R 17 3
+B 18 4
+
+R 19 4
+B 14 3
+SWITCH OWNERSHIP
+
+10
+testing with 2 22
+R 1 1
+B 25 6
+
+R 3 2
+B 22 5
+
+R 5 3
+B 19 4
+SWITCH OWNERSHIP
+
+3
+testing with 2 23
+R 1 1
+B 25 6
+
+R 3 2
+B 23 5
+
+R 5 3
+B 21 4
+
+R 7 4
+B 19 3
+
+R 9 5
+B 17 2
+
+R 11 6
+B 15 1
+SWITCH OWNERSHIP
+
+6
+testing with 2 24
+R 1 1
+B 25 6
+
+R 3 2
+B 24 5
+
+R 5 3
+B 23 4
+
+R 7 4
+B 22 3
+
+R 9 5
+B 21 2
+
+R 11 6
+B 20 1
+
+R 13 1
+B 19 6
+
+R 15 2
+B 18 5
+
+R 17 3
+B 17 4
+
+R 19 4
+B 16 3
+SWITCH OWNERSHIP
+
+10
+testing with 2 25
+R 1 1
+B 25 6
+
+R 3 2
+B 25 5
+
+R 5 3
+B 25 4
+
+R 7 4
+B 25 3
+
+R 9 5
+B 25 2
+
+R 11 6
+B 25 1
+
+R 13 1
+B 25 6
+
+R 15 2
+B 25 5
+
+R 17 3
+B 25 4
+
+R 19 4
+B 25 3
+
+R 21 5
+B 25 2
+SWITCH OWNERSHIP
+
+11
+testing with 3 1
+R 1 1
+B 25 6
+
+R 4 2
+B 1 5
+
+R 7 3
+B 2 4
+SWITCH OWNERSHIP
+
+3
+testing with 3 2
+R 1 1
+B 25 6
+
+R 4 2
+B 2 5
+
+R 7 3
+B 4 4
+SWITCH OWNERSHIP
+
+3
+testing with 3 3
+R 1 1
+B 25 6
+
+R 4 2
+B 3 5
+
+R 7 3
+B 6 4
+
+R 10 4
+B 9 3
+SWITCH OWNERSHIP
+
+4
+testing with 3 4
+R 1 1
+B 25 6
+
+R 4 2
+B 4 5
+SWITCH OWNERSHIP
+
+2
+testing with 3 5
+R 1 1
+B 25 6
+
+R 4 2
+B 5 5
+SWITCH OWNERSHIP
+
+2
+testing with 3 6
+R 1 1
+B 25 6
+
+R 4 2
+B 6 5
+SWITCH OWNERSHIP
+
+2
+testing with 3 7
+R 1 1
+B 25 6
+
+R 4 2
+B 7 5
+
+R 7 3
+B 14 4
+
+R 10 4
+B 21 3
+
+R 13 5
+B 3 2
+SWITCH OWNERSHIP
+
+5
+testing with 3 8
+R 1 1
+B 25 6
+
+R 4 2
+B 8 5
+
+R 7 3
+B 16 4
+
+R 10 4
+B 24 3
+
+R 13 5
+B 7 2
+
+R 16 6
+B 15 1
+SWITCH OWNERSHIP
+
+6
+testing with 3 9
+R 1 1
+B 25 6
+
+R 4 2
+B 9 5
+SWITCH OWNERSHIP
+
+2
+testing with 3 10
+R 1 1
+B 25 6
+
+R 4 2
+B 10 5
+
+R 7 3
+B 20 4
+
+R 10 4
+B 5 3
+SWITCH OWNERSHIP
+
+4
+testing with 3 11
+R 1 1
+B 25 6
+
+R 4 2
+B 11 5
+
+R 7 3
+B 22 4
+
+R 10 4
+B 8 3
+
+R 13 5
+B 19 2
+
+R 16 6
+B 5 1
+
+R 19 1
+B 16 6
+SWITCH OWNERSHIP
+
+7
+testing with 3 12
+R 1 1
+B 25 6
+
+R 4 2
+B 12 5
+
+R 7 3
+B 24 4
+
+R 10 4
+B 11 3
+SWITCH OWNERSHIP
+
+4
+testing with 3 13
+R 1 1
+B 25 6
+
+R 4 2
+B 13 5
+SWITCH OWNERSHIP
+
+2
+testing with 3 14
+R 1 1
+B 25 6
+
+R 4 2
+B 14 5
+
+R 7 3
+B 3 4
+
+R 10 4
+B 17 3
+SWITCH OWNERSHIP
+
+4
+testing with 3 15
+R 1 1
+B 25 6
+
+R 4 2
+B 15 5
+
+R 7 3
+B 5 4
+
+R 10 4
+B 20 3
+
+R 13 5
+B 10 2
+SWITCH OWNERSHIP
+
+5
+testing with 3 16
+R 1 1
+B 25 6
+
+R 4 2
+B 16 5
+
+R 7 3
+B 7 4
+SWITCH OWNERSHIP
+
+3
+testing with 3 17
+R 1 1
+B 25 6
+
+R 4 2
+B 17 5
+
+R 7 3
+B 9 4
+
+R 10 4
+B 1 3
+SWITCH OWNERSHIP
+
+4
+testing with 3 18
+R 1 1
+B 25 6
+
+R 4 2
+B 18 5
+
+R 7 3
+B 11 4
+
+R 10 4
+B 4 3
+
+R 13 5
+B 22 2
+
+R 16 6
+B 15 1
+SWITCH OWNERSHIP
+
+6
+testing with 3 19
+R 1 1
+B 25 6
+
+R 4 2
+B 19 5
+
+R 7 3
+B 13 4
+
+R 10 4
+B 7 3
+SWITCH OWNERSHIP
+
+4
+testing with 3 20
+R 1 1
+B 25 6
+
+R 4 2
+B 20 5
+
+R 7 3
+B 15 4
+SWITCH OWNERSHIP
+
+3
+testing with 3 21
+R 1 1
+B 25 6
+
+R 4 2
+B 21 5
+SWITCH OWNERSHIP
+
+2
+testing with 3 22
+R 1 1
+B 25 6
+
+R 4 2
+B 22 5
+
+R 7 3
+B 19 4
+SWITCH OWNERSHIP
+
+3
+testing with 3 23
+R 1 1
+B 25 6
+
+R 4 2
+B 23 5
+
+R 7 3
+B 21 4
+
+R 10 4
+B 19 3
+
+R 13 5
+B 17 2
+
+R 16 6
+B 15 1
+SWITCH OWNERSHIP
+
+6
+testing with 3 24
+R 1 1
+B 25 6
+
+R 4 2
+B 24 5
+
+R 7 3
+B 23 4
+
+R 10 4
+B 22 3
+SWITCH OWNERSHIP
+
+4
+testing with 3 25
+R 1 1
+B 25 6
+
+R 4 2
+B 25 5
+
+R 7 3
+B 25 4
+
+R 10 4
+B 25 3
+
+R 13 5
+B 25 2
+
+R 16 6
+B 25 1
+
+R 19 1
+B 25 6
+
+R 22 2
+B 25 5
+SWITCH OWNERSHIP
+
+8
+testing with 4 1
+R 1 1
+B 25 6
+
+R 5 2
+B 1 5
+SWITCH OWNERSHIP
+
+2
+testing with 4 2
+R 1 1
+B 25 6
+
+R 5 2
+B 2 5
+
+R 9 3
+B 4 4
+
+R 13 4
+B 6 3
+SWITCH OWNERSHIP
+
+4
+testing with 4 3
+R 1 1
+B 25 6
+
+R 5 2
+B 3 5
+
+R 9 3
+B 6 4
+
+R 13 4
+B 9 3
+SWITCH OWNERSHIP
+
+4
+testing with 4 4
+R 1 1
+B 25 6
+
+R 5 2
+B 4 5
+
+R 9 3
+B 8 4
+SWITCH OWNERSHIP
+
+3
+testing with 4 5
+R 1 1
+B 25 6
+
+R 5 2
+B 5 5
+SWITCH OWNERSHIP
+
+2
+testing with 4 6
+R 1 1
+B 25 6
+
+R 5 2
+B 6 5
+
+R 9 3
+B 12 4
+
+R 13 4
+B 18 3
+
+R 17 5
+B 24 2
+SWITCH OWNERSHIP
+
+5
+testing with 4 7
+R 1 1
+B 25 6
+
+R 5 2
+B 7 5
+
+R 9 3
+B 14 4
+
+R 13 4
+B 21 3
+
+R 17 5
+B 3 2
+
+R 21 6
+B 10 1
+SWITCH OWNERSHIP
+
+6
+testing with 4 8
+R 1 1
+B 25 6
+
+R 5 2
+B 8 5
+
+R 9 3
+B 16 4
+
+R 13 4
+B 24 3
+
+R 17 5
+B 7 2
+
+R 21 6
+B 15 1
+SWITCH OWNERSHIP
+
+6
+testing with 4 9
+R 1 1
+B 25 6
+
+R 5 2
+B 9 5
+
+R 9 3
+B 18 4
+
+R 13 4
+B 2 3
+
+R 17 5
+B 11 2
+
+R 21 6
+B 20 1
+
+R 25 1
+B 4 6
+SWITCH OWNERSHIP
+
+7
+testing with 4 10
+R 1 1
+B 25 6
+
+R 5 2
+B 10 5
+
+R 9 3
+B 20 4
+SWITCH OWNERSHIP
+
+3
+testing with 4 11
+R 1 1
+B 25 6
+
+R 5 2
+B 11 5
+
+R 9 3
+B 22 4
+
+R 13 4
+B 8 3
+
+R 17 5
+B 19 2
+
+R 21 6
+B 5 1
+
+R 25 1
+B 16 6
+SWITCH OWNERSHIP
+
+7
+testing with 4 12
+R 1 1
+B 25 6
+
+R 5 2
+B 12 5
+
+R 9 3
+B 24 4
+
+R 13 4
+B 11 3
+SWITCH OWNERSHIP
+
+4
+testing with 4 13
+R 1 1
+B 25 6
+
+R 5 2
+B 13 5
+SWITCH OWNERSHIP
+
+2
+testing with 4 14
+R 1 1
+B 25 6
+
+R 5 2
+B 14 5
+
+R 9 3
+B 3 4
+
+R 13 4
+B 17 3
+
+R 17 5
+B 6 2
+
+R 21 6
+B 20 1
+
+R 25 1
+B 9 6
+
+R 4 2
+B 23 5
+SWITCH OWNERSHIP
+
+8
+testing with 4 15
+R 1 1
+B 25 6
+
+R 5 2
+B 15 5
+
+R 9 3
+B 5 4
+
+R 13 4
+B 20 3
+
+R 17 5
+B 10 2
+
+R 21 6
+B 25 1
+SWITCH OWNERSHIP
+
+6
+testing with 4 16
+R 1 1
+B 25 6
+
+R 5 2
+B 16 5
+
+R 9 3
+B 7 4
+
+R 13 4
+B 23 3
+
+R 17 5
+B 14 2
+
+R 21 6
+B 5 1
+
+R 25 1
+B 21 6
+SWITCH OWNERSHIP
+
+7
+testing with 4 17
+R 1 1
+B 25 6
+
+R 5 2
+B 17 5
+SWITCH OWNERSHIP
+
+2
+testing with 4 18
+R 1 1
+B 25 6
+
+R 5 2
+B 18 5
+
+R 9 3
+B 11 4
+
+R 13 4
+B 4 3
+
+R 17 5
+B 22 2
+SWITCH OWNERSHIP
+
+5
+testing with 4 19
+R 1 1
+B 25 6
+
+R 5 2
+B 19 5
+
+R 9 3
+B 13 4
+SWITCH OWNERSHIP
+
+3
+testing with 4 20
+R 1 1
+B 25 6
+
+R 5 2
+B 20 5
+
+R 9 3
+B 15 4
+SWITCH OWNERSHIP
+
+3
+testing with 4 21
+R 1 1
+B 25 6
+
+R 5 2
+B 21 5
+
+R 9 3
+B 17 4
+
+R 13 4
+B 13 3
+SWITCH OWNERSHIP
+
+4
+testing with 4 22
+R 1 1
+B 25 6
+
+R 5 2
+B 22 5
+
+R 9 3
+B 19 4
+
+R 13 4
+B 16 3
+
+R 17 5
+B 13 2
+
+R 21 6
+B 10 1
+
+R 25 1
+B 7 6
+
+R 4 2
+B 4 5
+
+R 8 3
+B 1 4
+SWITCH OWNERSHIP
+
+9
+testing with 4 23
+R 1 1
+B 25 6
+
+R 5 2
+B 23 5
+SWITCH OWNERSHIP
+
+2
+testing with 4 24
+R 1 1
+B 25 6
+
+R 5 2
+B 24 5
+
+R 9 3
+B 23 4
+
+R 13 4
+B 22 3
+
+R 17 5
+B 21 2
+
+R 21 6
+B 20 1
+
+R 25 1
+B 19 6
+
+R 4 2
+B 18 5
+
+R 8 3
+B 17 4
+
+R 12 4
+B 16 3
+SWITCH OWNERSHIP
+
+10
+testing with 4 25
+R 1 1
+B 25 6
+
+R 5 2
+B 25 5
+
+R 9 3
+B 25 4
+
+R 13 4
+B 25 3
+
+R 17 5
+B 25 2
+
+R 21 6
+B 25 1
+SWITCH OWNERSHIP
+
+6
+testing with 5 1
+R 1 1
+B 25 6
+
+R 6 2
+B 1 5
+SWITCH OWNERSHIP
+
+2
+testing with 5 2
+R 1 1
+B 25 6
+
+R 6 2
+B 2 5
+
+R 11 3
+B 4 4
+SWITCH OWNERSHIP
+
+3
+testing with 5 3
+R 1 1
+B 25 6
+
+R 6 2
+B 3 5
+
+R 11 3
+B 6 4
+
+R 16 4
+B 9 3
+SWITCH OWNERSHIP
+
+4
+testing with 5 4
+R 1 1
+B 25 6
+
+R 6 2
+B 4 5
+
+R 11 3
+B 8 4
+SWITCH OWNERSHIP
+
+3
+testing with 5 5
+R 1 1
+B 25 6
+
+R 6 2
+B 5 5
+SWITCH OWNERSHIP
+
+2
+testing with 5 6
+R 1 1
+B 25 6
+
+R 6 2
+B 6 5
+
+R 11 3
+B 12 4
+SWITCH OWNERSHIP
+
+3
+testing with 5 7
+R 1 1
+B 25 6
+
+R 6 2
+B 7 5
+SWITCH OWNERSHIP
+
+2
+testing with 5 8
+R 1 1
+B 25 6
+
+R 6 2
+B 8 5
+SWITCH OWNERSHIP
+
+2
+testing with 5 9
+R 1 1
+B 25 6
+
+R 6 2
+B 9 5
+
+R 11 3
+B 18 4
+
+R 16 4
+B 2 3
+
+R 21 5
+B 11 2
+SWITCH OWNERSHIP
+
+5
+testing with 5 10
+R 1 1
+B 25 6
+
+R 6 2
+B 10 5
+
+R 11 3
+B 20 4
+
+R 16 4
+B 5 3
+
+R 21 5
+B 15 2
+SWITCH OWNERSHIP
+
+5
+testing with 5 11
+R 1 1
+B 25 6
+
+R 6 2
+B 11 5
+
+R 11 3
+B 22 4
+
+R 16 4
+B 8 3
+SWITCH OWNERSHIP
+
+4
+testing with 5 12
+R 1 1
+B 25 6
+
+R 6 2
+B 12 5
+
+R 11 3
+B 24 4
+
+R 16 4
+B 11 3
+SWITCH OWNERSHIP
+
+4
+testing with 5 13
+R 1 1
+B 25 6
+
+R 6 2
+B 13 5
+
+R 11 3
+B 1 4
+SWITCH OWNERSHIP
+
+3
+testing with 5 14
+R 1 1
+B 25 6
+
+R 6 2
+B 14 5
+
+R 11 3
+B 3 4
+
+R 16 4
+B 17 3
+
+R 21 5
+B 6 2
+SWITCH OWNERSHIP
+
+5
+testing with 5 15
+R 1 1
+B 25 6
+
+R 6 2
+B 15 5
+SWITCH OWNERSHIP
+
+2
+testing with 5 16
+R 1 1
+B 25 6
+
+R 6 2
+B 16 5
+
+R 11 3
+B 7 4
+
+R 16 4
+B 23 3
+
+R 21 5
+B 14 2
+
+R 1 6
+B 5 1
+SWITCH OWNERSHIP
+
+6
+testing with 5 17
+R 1 1
+B 25 6
+
+R 6 2
+B 17 5
+SWITCH OWNERSHIP
+
+2
+testing with 5 18
+R 1 1
+B 25 6
+
+R 6 2
+B 18 5
+
+R 11 3
+B 11 4
+
+R 16 4
+B 4 3
+
+R 21 5
+B 22 2
+
+R 1 6
+B 15 1
+
+R 6 1
+B 8 6
+SWITCH OWNERSHIP
+
+7
+testing with 5 19
+R 1 1
+B 25 6
+
+R 6 2
+B 19 5
+
+R 11 3
+B 13 4
+SWITCH OWNERSHIP
+
+3
+testing with 5 20
+R 1 1
+B 25 6
+
+R 6 2
+B 20 5
+
+R 11 3
+B 15 4
+
+R 16 4
+B 10 3
+
+R 21 5
+B 5 2
+SWITCH OWNERSHIP
+
+5
+testing with 5 21
+R 1 1
+B 25 6
+
+R 6 2
+B 21 5
+SWITCH OWNERSHIP
+
+2
+testing with 5 22
+R 1 1
+B 25 6
+
+R 6 2
+B 22 5
+
+R 11 3
+B 19 4
+
+R 16 4
+B 16 3
+
+R 21 5
+B 13 2
+SWITCH OWNERSHIP
+
+5
+testing with 5 23
+R 1 1
+B 25 6
+
+R 6 2
+B 23 5
+
+R 11 3
+B 21 4
+
+R 16 4
+B 19 3
+
+R 21 5
+B 17 2
+
+R 1 6
+B 15 1
+
+R 6 1
+B 13 6
+SWITCH OWNERSHIP
+
+7
+testing with 5 24
+R 1 1
+B 25 6
+
+R 6 2
+B 24 5
+
+R 11 3
+B 23 4
+
+R 16 4
+B 22 3
+
+R 21 5
+B 21 2
+
+R 1 6
+B 20 1
+
+R 6 1
+B 19 6
+
+R 11 2
+B 18 5
+SWITCH OWNERSHIP
+
+8
+testing with 5 25
+R 1 1
+B 25 6
+
+R 6 2
+B 25 5
+
+R 11 3
+B 25 4
+
+R 16 4
+B 25 3
+
+R 21 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 6 1
+B 25 6
+
+R 11 2
+B 25 5
+
+R 16 3
+B 25 4
+SWITCH OWNERSHIP
+
+9
+testing with 6 1
+R 1 1
+B 25 6
+
+R 7 2
+B 1 5
+SWITCH OWNERSHIP
+
+2
+testing with 6 2
+R 1 1
+B 25 6
+
+R 7 2
+B 2 5
+
+R 13 3
+B 4 4
+SWITCH OWNERSHIP
+
+3
+testing with 6 3
+R 1 1
+B 25 6
+
+R 7 2
+B 3 5
+
+R 13 3
+B 6 4
+
+R 19 4
+B 9 3
+SWITCH OWNERSHIP
+
+4
+testing with 6 4
+R 1 1
+B 25 6
+
+R 7 2
+B 4 5
+
+R 13 3
+B 8 4
+
+R 19 4
+B 12 3
+
+R 25 5
+B 16 2
+SWITCH OWNERSHIP
+
+5
+testing with 6 5
+R 1 1
+B 25 6
+
+R 7 2
+B 5 5
+
+R 13 3
+B 10 4
+
+R 19 4
+B 15 3
+
+R 25 5
+B 20 2
+
+R 6 6
+B 25 1
+SWITCH OWNERSHIP
+
+6
+testing with 6 6
+R 1 1
+B 25 6
+
+R 7 2
+B 6 5
+
+R 13 3
+B 12 4
+
+R 19 4
+B 18 3
+
+R 25 5
+B 24 2
+SWITCH OWNERSHIP
+
+5
+testing with 6 7
+R 1 1
+B 25 6
+
+R 7 2
+B 7 5
+SWITCH OWNERSHIP
+
+2
+testing with 6 8
+R 1 1
+B 25 6
+
+R 7 2
+B 8 5
+SWITCH OWNERSHIP
+
+2
+testing with 6 9
+R 1 1
+B 25 6
+
+R 7 2
+B 9 5
+SWITCH OWNERSHIP
+
+2
+testing with 6 10
+R 1 1
+B 25 6
+
+R 7 2
+B 10 5
+
+R 13 3
+B 20 4
+
+R 19 4
+B 5 3
+
+R 25 5
+B 15 2
+SWITCH OWNERSHIP
+
+5
+testing with 6 11
+R 1 1
+B 25 6
+
+R 7 2
+B 11 5
+
+R 13 3
+B 22 4
+
+R 19 4
+B 8 3
+
+R 25 5
+B 19 2
+
+R 6 6
+B 5 1
+
+R 12 1
+B 16 6
+SWITCH OWNERSHIP
+
+7
+testing with 6 12
+R 1 1
+B 25 6
+
+R 7 2
+B 12 5
+SWITCH OWNERSHIP
+
+2
+testing with 6 13
+R 1 1
+B 25 6
+
+R 7 2
+B 13 5
+
+R 13 3
+B 1 4
+
+R 19 4
+B 14 3
+
+R 25 5
+B 2 2
+
+R 6 6
+B 15 1
+
+R 12 1
+B 3 6
+
+R 18 2
+B 16 5
+SWITCH OWNERSHIP
+
+8
+testing with 6 14
+R 1 1
+B 25 6
+
+R 7 2
+B 14 5
+
+R 13 3
+B 3 4
+
+R 19 4
+B 17 3
+
+R 25 5
+B 6 2
+
+R 6 6
+B 20 1
+
+R 12 1
+B 9 6
+
+R 18 2
+B 23 5
+
+R 24 3
+B 12 4
+SWITCH OWNERSHIP
+
+9
+testing with 6 15
+R 1 1
+B 25 6
+
+R 7 2
+B 15 5
+
+R 13 3
+B 5 4
+
+R 19 4
+B 20 3
+
+R 25 5
+B 10 2
+
+R 6 6
+B 25 1
+
+R 12 1
+B 15 6
+SWITCH OWNERSHIP
+
+7
+testing with 6 16
+R 1 1
+B 25 6
+
+R 7 2
+B 16 5
+
+R 13 3
+B 7 4
+SWITCH OWNERSHIP
+
+3
+testing with 6 17
+R 1 1
+B 25 6
+
+R 7 2
+B 17 5
+
+R 13 3
+B 9 4
+
+R 19 4
+B 1 3
+SWITCH OWNERSHIP
+
+4
+testing with 6 18
+R 1 1
+B 25 6
+
+R 7 2
+B 18 5
+
+R 13 3
+B 11 4
+
+R 19 4
+B 4 3
+
+R 25 5
+B 22 2
+
+R 6 6
+B 15 1
+SWITCH OWNERSHIP
+
+6
+testing with 6 19
+R 1 1
+B 25 6
+
+R 7 2
+B 19 5
+SWITCH OWNERSHIP
+
+2
+testing with 6 20
+R 1 1
+B 25 6
+
+R 7 2
+B 20 5
+
+R 13 3
+B 15 4
+
+R 19 4
+B 10 3
+
+R 25 5
+B 5 2
+
+R 6 6
+B 25 1
+
+R 12 1
+B 20 6
+SWITCH OWNERSHIP
+
+7
+testing with 6 21
+R 1 1
+B 25 6
+
+R 7 2
+B 21 5
+SWITCH OWNERSHIP
+
+2
+testing with 6 22
+R 1 1
+B 25 6
+
+R 7 2
+B 22 5
+
+R 13 3
+B 19 4
+SWITCH OWNERSHIP
+
+3
+testing with 6 23
+R 1 1
+B 25 6
+
+R 7 2
+B 23 5
+
+R 13 3
+B 21 4
+
+R 19 4
+B 19 3
+SWITCH OWNERSHIP
+
+4
+testing with 6 24
+R 1 1
+B 25 6
+
+R 7 2
+B 24 5
+
+R 13 3
+B 23 4
+
+R 19 4
+B 22 3
+
+R 25 5
+B 21 2
+
+R 6 6
+B 20 1
+
+R 12 1
+B 19 6
+
+R 18 2
+B 18 5
+SWITCH OWNERSHIP
+
+8
+testing with 6 25
+R 1 1
+B 25 6
+
+R 7 2
+B 25 5
+SWITCH OWNERSHIP
+
+2
+testing with 7 1
+R 1 1
+B 25 6
+
+R 8 2
+B 1 5
+SWITCH OWNERSHIP
+
+2
+testing with 7 2
+R 1 1
+B 25 6
+
+R 8 2
+B 2 5
+
+R 15 3
+B 4 4
+SWITCH OWNERSHIP
+
+3
+testing with 7 3
+R 1 1
+B 25 6
+
+R 8 2
+B 3 5
+
+R 15 3
+B 6 4
+
+R 22 4
+B 9 3
+SWITCH OWNERSHIP
+
+4
+testing with 7 4
+R 1 1
+B 25 6
+
+R 8 2
+B 4 5
+
+R 15 3
+B 8 4
+
+R 22 4
+B 12 3
+
+R 4 5
+B 16 2
+SWITCH OWNERSHIP
+
+5
+testing with 7 5
+R 1 1
+B 25 6
+
+R 8 2
+B 5 5
+
+R 15 3
+B 10 4
+
+R 22 4
+B 15 3
+SWITCH OWNERSHIP
+
+4
+testing with 7 6
+R 1 1
+B 25 6
+
+R 8 2
+B 6 5
+
+R 15 3
+B 12 4
+SWITCH OWNERSHIP
+
+3
+testing with 7 7
+R 1 1
+B 25 6
+
+R 8 2
+B 7 5
+
+R 15 3
+B 14 4
+
+R 22 4
+B 21 3
+
+R 4 5
+B 3 2
+SWITCH OWNERSHIP
+
+5
+testing with 7 8
+R 1 1
+B 25 6
+
+R 8 2
+B 8 5
+SWITCH OWNERSHIP
+
+2
+testing with 7 9
+R 1 1
+B 25 6
+
+R 8 2
+B 9 5
+SWITCH OWNERSHIP
+
+2
+testing with 7 10
+R 1 1
+B 25 6
+
+R 8 2
+B 10 5
+SWITCH OWNERSHIP
+
+2
+testing with 7 11
+R 1 1
+B 25 6
+
+R 8 2
+B 11 5
+
+R 15 3
+B 22 4
+SWITCH OWNERSHIP
+
+3
+testing with 7 12
+R 1 1
+B 25 6
+
+R 8 2
+B 12 5
+
+R 15 3
+B 24 4
+
+R 22 4
+B 11 3
+SWITCH OWNERSHIP
+
+4
+testing with 7 13
+R 1 1
+B 25 6
+
+R 8 2
+B 13 5
+
+R 15 3
+B 1 4
+
+R 22 4
+B 14 3
+
+R 4 5
+B 2 2
+SWITCH OWNERSHIP
+
+5
+testing with 7 14
+R 1 1
+B 25 6
+
+R 8 2
+B 14 5
+
+R 15 3
+B 3 4
+
+R 22 4
+B 17 3
+
+R 4 5
+B 6 2
+
+R 11 6
+B 20 1
+
+R 18 1
+B 9 6
+SWITCH OWNERSHIP
+
+7
+testing with 7 15
+R 1 1
+B 25 6
+
+R 8 2
+B 15 5
+
+R 15 3
+B 5 4
+
+R 22 4
+B 20 3
+
+R 4 5
+B 10 2
+
+R 11 6
+B 25 1
+
+R 18 1
+B 15 6
+
+R 25 2
+B 5 5
+SWITCH OWNERSHIP
+
+8
+testing with 7 16
+R 1 1
+B 25 6
+
+R 8 2
+B 16 5
+
+R 15 3
+B 7 4
+SWITCH OWNERSHIP
+
+3
+testing with 7 17
+R 1 1
+B 25 6
+
+R 8 2
+B 17 5
+
+R 15 3
+B 9 4
+
+R 22 4
+B 1 3
+SWITCH OWNERSHIP
+
+4
+testing with 7 18
+R 1 1
+B 25 6
+
+R 8 2
+B 18 5
+
+R 15 3
+B 11 4
+
+R 22 4
+B 4 3
+
+R 4 5
+B 22 2
+
+R 11 6
+B 15 1
+
+R 18 1
+B 8 6
+SWITCH OWNERSHIP
+
+7
+testing with 7 19
+R 1 1
+B 25 6
+
+R 8 2
+B 19 5
+SWITCH OWNERSHIP
+
+2
+testing with 7 20
+R 1 1
+B 25 6
+
+R 8 2
+B 20 5
+
+R 15 3
+B 15 4
+
+R 22 4
+B 10 3
+
+R 4 5
+B 5 2
+
+R 11 6
+B 25 1
+
+R 18 1
+B 20 6
+SWITCH OWNERSHIP
+
+7
+testing with 7 21
+R 1 1
+B 25 6
+
+R 8 2
+B 21 5
+
+R 15 3
+B 17 4
+SWITCH OWNERSHIP
+
+3
+testing with 7 22
+R 1 1
+B 25 6
+
+R 8 2
+B 22 5
+
+R 15 3
+B 19 4
+SWITCH OWNERSHIP
+
+3
+testing with 7 23
+R 1 1
+B 25 6
+
+R 8 2
+B 23 5
+
+R 15 3
+B 21 4
+
+R 22 4
+B 19 3
+
+R 4 5
+B 17 2
+
+R 11 6
+B 15 1
+
+R 18 1
+B 13 6
+
+R 25 2
+B 11 5
+
+R 7 3
+B 9 4
+SWITCH OWNERSHIP
+
+9
+testing with 7 24
+R 1 1
+B 25 6
+
+R 8 2
+B 24 5
+
+R 15 3
+B 23 4
+
+R 22 4
+B 22 3
+
+R 4 5
+B 21 2
+
+R 11 6
+B 20 1
+
+R 18 1
+B 19 6
+
+R 25 2
+B 18 5
+
+R 7 3
+B 17 4
+
+R 14 4
+B 16 3
+SWITCH OWNERSHIP
+
+10
+testing with 7 25
+R 1 1
+B 25 6
+
+R 8 2
+B 25 5
+
+R 15 3
+B 25 4
+
+R 22 4
+B 25 3
+
+R 4 5
+B 25 2
+SWITCH OWNERSHIP
+
+5
+testing with 8 1
+R 1 1
+B 25 6
+
+R 9 2
+B 1 5
+SWITCH OWNERSHIP
+
+2
+testing with 8 2
+R 1 1
+B 25 6
+
+R 9 2
+B 2 5
+
+R 17 3
+B 4 4
+SWITCH OWNERSHIP
+
+3
+testing with 8 3
+R 1 1
+B 25 6
+
+R 9 2
+B 3 5
+
+R 17 3
+B 6 4
+
+R 25 4
+B 9 3
+SWITCH OWNERSHIP
+
+4
+testing with 8 4
+R 1 1
+B 25 6
+
+R 9 2
+B 4 5
+SWITCH OWNERSHIP
+
+2
+testing with 8 5
+R 1 1
+B 25 6
+
+R 9 2
+B 5 5
+
+R 17 3
+B 10 4
+
+R 25 4
+B 15 3
+SWITCH OWNERSHIP
+
+4
+testing with 8 6
+R 1 1
+B 25 6
+
+R 9 2
+B 6 5
+
+R 17 3
+B 12 4
+
+R 25 4
+B 18 3
+
+R 8 5
+B 24 2
+SWITCH OWNERSHIP
+
+5
+testing with 8 7
+R 1 1
+B 25 6
+
+R 9 2
+B 7 5
+
+R 17 3
+B 14 4
+SWITCH OWNERSHIP
+
+3
+testing with 8 8
+R 1 1
+B 25 6
+
+R 9 2
+B 8 5
+SWITCH OWNERSHIP
+
+2
+testing with 8 9
+R 1 1
+B 25 6
+
+R 9 2
+B 9 5
+SWITCH OWNERSHIP
+
+2
+testing with 8 10
+R 1 1
+B 25 6
+
+R 9 2
+B 10 5
+SWITCH OWNERSHIP
+
+2
+testing with 8 11
+R 1 1
+B 25 6
+
+R 9 2
+B 11 5
+SWITCH OWNERSHIP
+
+2
+testing with 8 12
+R 1 1
+B 25 6
+
+R 9 2
+B 12 5
+
+R 17 3
+B 24 4
+
+R 25 4
+B 11 3
+SWITCH OWNERSHIP
+
+4
+testing with 8 13
+R 1 1
+B 25 6
+
+R 9 2
+B 13 5
+
+R 17 3
+B 1 4
+
+R 25 4
+B 14 3
+
+R 8 5
+B 2 2
+SWITCH OWNERSHIP
+
+5
+testing with 8 14
+R 1 1
+B 25 6
+
+R 9 2
+B 14 5
+
+R 17 3
+B 3 4
+
+R 25 4
+B 17 3
+SWITCH OWNERSHIP
+
+4
+testing with 8 15
+R 1 1
+B 25 6
+
+R 9 2
+B 15 5
+
+R 17 3
+B 5 4
+SWITCH OWNERSHIP
+
+3
+testing with 8 16
+R 1 1
+B 25 6
+
+R 9 2
+B 16 5
+
+R 17 3
+B 7 4
+
+R 25 4
+B 23 3
+
+R 8 5
+B 14 2
+
+R 16 6
+B 5 1
+SWITCH OWNERSHIP
+
+6
+testing with 8 17
+R 1 1
+B 25 6
+
+R 9 2
+B 17 5
+
+R 17 3
+B 9 4
+
+R 25 4
+B 1 3
+
+R 8 5
+B 18 2
+
+R 16 6
+B 10 1
+
+R 24 1
+B 2 6
+SWITCH OWNERSHIP
+
+7
+testing with 8 18
+R 1 1
+B 25 6
+
+R 9 2
+B 18 5
+
+R 17 3
+B 11 4
+
+R 25 4
+B 4 3
+
+R 8 5
+B 22 2
+
+R 16 6
+B 15 1
+
+R 24 1
+B 8 6
+
+R 7 2
+B 1 5
+
+R 15 3
+B 19 4
+SWITCH OWNERSHIP
+
+9
+testing with 8 19
+R 1 1
+B 25 6
+
+R 9 2
+B 19 5
+
+R 17 3
+B 13 4
+
+R 25 4
+B 7 3
+SWITCH OWNERSHIP
+
+4
+testing with 8 20
+R 1 1
+B 25 6
+
+R 9 2
+B 20 5
+
+R 17 3
+B 15 4
+
+R 25 4
+B 10 3
+
+R 8 5
+B 5 2
+
+R 16 6
+B 25 1
+
+R 24 1
+B 20 6
+SWITCH OWNERSHIP
+
+7
+testing with 8 21
+R 1 1
+B 25 6
+
+R 9 2
+B 21 5
+
+R 17 3
+B 17 4
+
+R 25 4
+B 13 3
+SWITCH OWNERSHIP
+
+4
+testing with 8 22
+R 1 1
+B 25 6
+
+R 9 2
+B 22 5
+
+R 17 3
+B 19 4
+SWITCH OWNERSHIP
+
+3
+testing with 8 23
+R 1 1
+B 25 6
+
+R 9 2
+B 23 5
+
+R 17 3
+B 21 4
+
+R 25 4
+B 19 3
+
+R 8 5
+B 17 2
+
+R 16 6
+B 15 1
+
+R 24 1
+B 13 6
+SWITCH OWNERSHIP
+
+7
+testing with 8 24
+R 1 1
+B 25 6
+
+R 9 2
+B 24 5
+
+R 17 3
+B 23 4
+
+R 25 4
+B 22 3
+
+R 8 5
+B 21 2
+
+R 16 6
+B 20 1
+
+R 24 1
+B 19 6
+
+R 7 2
+B 18 5
+
+R 15 3
+B 17 4
+SWITCH OWNERSHIP
+
+9
+testing with 8 25
+R 1 1
+B 25 6
+
+R 9 2
+B 25 5
+
+R 17 3
+B 25 4
+SWITCH OWNERSHIP
+
+3
+testing with 9 1
+R 1 1
+B 25 6
+
+R 10 2
+B 1 5
+SWITCH OWNERSHIP
+
+2
+testing with 9 2
+R 1 1
+B 25 6
+
+R 10 2
+B 2 5
+
+R 19 3
+B 4 4
+SWITCH OWNERSHIP
+
+3
+testing with 9 3
+R 1 1
+B 25 6
+SWITCH OWNERSHIP
+
+MIN 9 3 1
+1
+testing with 9 4
+R 1 1
+B 25 6
+
+R 10 2
+B 4 5
+
+R 19 3
+B 8 4
+SWITCH OWNERSHIP
+
+3
+testing with 9 5
+R 1 1
+B 25 6
+SWITCH OWNERSHIP
+
+1
+testing with 9 6
+R 1 1
+B 25 6
+
+R 10 2
+B 6 5
+
+R 19 3
+B 12 4
+SWITCH OWNERSHIP
+
+3
+testing with 9 7
+R 1 1
+B 25 6
+SWITCH OWNERSHIP
+
+1
+testing with 9 8
+R 1 1
+B 25 6
+
+R 10 2
+B 8 5
+SWITCH OWNERSHIP
+
+2
+testing with 9 9
+R 1 1
+B 25 6
+
+R 10 2
+B 9 5
+
+R 19 3
+B 18 4
+SWITCH OWNERSHIP
+
+3
+testing with 9 10
+R 1 1
+B 25 6
+SWITCH OWNERSHIP
+
+1
+testing with 9 11
+R 1 1
+B 25 6
+
+R 10 2
+B 11 5
+
+R 19 3
+B 22 4
+SWITCH OWNERSHIP
+
+3
+testing with 9 12
+R 1 1
+B 25 6
+SWITCH OWNERSHIP
+
+1
+testing with 9 13
+R 1 1
+B 25 6
+
+R 10 2
+B 13 5
+
+R 19 3
+B 1 4
+SWITCH OWNERSHIP
+
+3
+testing with 9 14
+R 1 1
+B 25 6
+SWITCH OWNERSHIP
+
+1
+testing with 9 15
+R 1 1
+B 25 6
+
+R 10 2
+B 15 5
+
+R 19 3
+B 5 4
+SWITCH OWNERSHIP
+
+3
+testing with 9 16
+R 1 1
+B 25 6
+SWITCH OWNERSHIP
+
+1
+testing with 9 17
+R 1 1
+B 25 6
+
+R 10 2
+B 17 5
+
+R 19 3
+B 9 4
+SWITCH OWNERSHIP
+
+3
+testing with 9 18
+R 1 1
+B 25 6
+SWITCH OWNERSHIP
+
+1
+testing with 9 19
+R 1 1
+B 25 6
+
+R 10 2
+B 19 5
+
+R 19 3
+B 13 4
+SWITCH OWNERSHIP
+
+3
+testing with 9 20
+R 1 1
+B 25 6
+SWITCH OWNERSHIP
+
+1
+testing with 9 21
+R 1 1
+B 25 6
+
+R 10 2
+B 21 5
+
+R 19 3
+B 17 4
+SWITCH OWNERSHIP
+
+3
+testing with 9 22
+R 1 1
+B 25 6
+SWITCH OWNERSHIP
+
+1
+testing with 9 23
+R 1 1
+B 25 6
+
+R 10 2
+B 23 5
+
+R 19 3
+B 21 4
+SWITCH OWNERSHIP
+
+3
+testing with 9 24
+R 1 1
+B 25 6
+SWITCH OWNERSHIP
+
+1
+testing with 9 25
+R 1 1
+B 25 6
+
+R 10 2
+B 25 5
+
+R 19 3
+B 25 4
+SWITCH OWNERSHIP
+
+3
+testing with 10 1
+R 1 1
+B 25 6
+SWITCH OWNERSHIP
+
+1
+testing with 10 2
+R 1 1
+B 25 6
+
+R 11 2
+B 2 5
+SWITCH OWNERSHIP
+
+2
+testing with 10 3
+R 1 1
+B 25 6
+
+R 11 2
+B 3 5
+
+R 21 3
+B 6 4
+SWITCH OWNERSHIP
+
+3
+testing with 10 4
+R 1 1
+B 25 6
+
+R 11 2
+B 4 5
+
+R 21 3
+B 8 4
+
+R 6 4
+B 12 3
+SWITCH OWNERSHIP
+
+4
+testing with 10 5
+R 1 1
+B 25 6
+
+R 11 2
+B 5 5
+
+R 21 3
+B 10 4
+
+R 6 4
+B 15 3
+SWITCH OWNERSHIP
+
+4
+testing with 10 6
+R 1 1
+B 25 6
+
+R 11 2
+B 6 5
+
+R 21 3
+B 12 4
+
+R 6 4
+B 18 3
+
+R 16 5
+B 24 2
+SWITCH OWNERSHIP
+
+5
+testing with 10 7
+R 1 1
+B 25 6
+
+R 11 2
+B 7 5
+
+R 21 3
+B 14 4
+
+R 6 4
+B 21 3
+SWITCH OWNERSHIP
+
+4
+testing with 10 8
+R 1 1
+B 25 6
+
+R 11 2
+B 8 5
+
+R 21 3
+B 16 4
+SWITCH OWNERSHIP
+
+3
+testing with 10 9
+R 1 1
+B 25 6
+
+R 11 2
+B 9 5
+
+R 21 3
+B 18 4
+
+R 6 4
+B 2 3
+
+R 16 5
+B 11 2
+SWITCH OWNERSHIP
+
+5
+testing with 10 10
+R 1 1
+B 25 6
+
+R 11 2
+B 10 5
+SWITCH OWNERSHIP
+
+2
+testing with 10 11
+R 1 1
+B 25 6
+
+R 11 2
+B 11 5
+
+R 21 3
+B 22 4
+SWITCH OWNERSHIP
+
+3
+testing with 10 12
+R 1 1
+B 25 6
+
+R 11 2
+B 12 5
+SWITCH OWNERSHIP
+
+2
+testing with 10 13
+R 1 1
+B 25 6
+
+R 11 2
+B 13 5
+SWITCH OWNERSHIP
+
+2
+testing with 10 14
+R 1 1
+B 25 6
+
+R 11 2
+B 14 5
+
+R 21 3
+B 3 4
+
+R 6 4
+B 17 3
+SWITCH OWNERSHIP
+
+4
+testing with 10 15
+R 1 1
+B 25 6
+
+R 11 2
+B 15 5
+
+R 21 3
+B 5 4
+
+R 6 4
+B 20 3
+
+R 16 5
+B 10 2
+SWITCH OWNERSHIP
+
+5
+testing with 10 16
+R 1 1
+B 25 6
+
+R 11 2
+B 16 5
+SWITCH OWNERSHIP
+
+2
+testing with 10 17
+R 1 1
+B 25 6
+
+R 11 2
+B 17 5
+
+R 21 3
+B 9 4
+
+R 6 4
+B 1 3
+
+R 16 5
+B 18 2
+SWITCH OWNERSHIP
+
+5
+testing with 10 18
+R 1 1
+B 25 6
+
+R 11 2
+B 18 5
+
+R 21 3
+B 11 4
+
+R 6 4
+B 4 3
+
+R 16 5
+B 22 2
+
+R 1 6
+B 15 1
+
+R 11 1
+B 8 6
+
+R 21 2
+B 1 5
+SWITCH OWNERSHIP
+
+8
+testing with 10 19
+R 1 1
+B 25 6
+
+R 11 2
+B 19 5
+
+R 21 3
+B 13 4
+
+R 6 4
+B 7 3
+
+R 16 5
+B 1 2
+
+R 1 6
+B 20 1
+
+R 11 1
+B 14 6
+
+R 21 2
+B 8 5
+
+R 6 3
+B 2 4
+SWITCH OWNERSHIP
+
+9
+testing with 10 20
+R 1 1
+B 25 6
+
+R 11 2
+B 20 5
+
+R 21 3
+B 15 4
+
+R 6 4
+B 10 3
+
+R 16 5
+B 5 2
+
+R 1 6
+B 25 1
+
+R 11 1
+B 20 6
+
+R 21 2
+B 15 5
+
+R 6 3
+B 10 4
+
+R 16 4
+B 5 3
+
+R 1 5
+B 25 2
+SWITCH OWNERSHIP
+
+11
+testing with 10 21
+R 1 1
+B 25 6
+
+R 11 2
+B 21 5
+
+R 21 3
+B 17 4
+
+R 6 4
+B 13 3
+
+R 16 5
+B 9 2
+SWITCH OWNERSHIP
+
+5
+testing with 10 22
+R 1 1
+B 25 6
+
+R 11 2
+B 22 5
+SWITCH OWNERSHIP
+
+2
+testing with 10 23
+R 1 1
+B 25 6
+
+R 11 2
+B 23 5
+
+R 21 3
+B 21 4
+
+R 6 4
+B 19 3
+
+R 16 5
+B 17 2
+
+R 1 6
+B 15 1
+
+R 11 1
+B 13 6
+
+R 21 2
+B 11 5
+SWITCH OWNERSHIP
+
+8
+testing with 10 24
+R 1 1
+B 25 6
+
+R 11 2
+B 24 5
+
+R 21 3
+B 23 4
+
+R 6 4
+B 22 3
+
+R 16 5
+B 21 2
+SWITCH OWNERSHIP
+
+5
+testing with 10 25
+R 1 1
+B 25 6
+
+R 11 2
+B 25 5
+
+R 21 3
+B 25 4
+
+R 6 4
+B 25 3
+
+R 16 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 11 1
+B 25 6
+
+R 21 2
+B 25 5
+SWITCH OWNERSHIP
+
+8
+testing with 11 1
+R 1 1
+B 25 6
+
+R 12 2
+B 1 5
+SWITCH OWNERSHIP
+
+2
+testing with 11 2
+R 1 1
+B 25 6
+
+R 12 2
+B 2 5
+
+R 23 3
+B 4 4
+SWITCH OWNERSHIP
+
+3
+testing with 11 3
+R 1 1
+B 25 6
+
+R 12 2
+B 3 5
+
+R 23 3
+B 6 4
+SWITCH OWNERSHIP
+
+3
+testing with 11 4
+R 1 1
+B 25 6
+
+R 12 2
+B 4 5
+
+R 23 3
+B 8 4
+
+R 9 4
+B 12 3
+SWITCH OWNERSHIP
+
+4
+testing with 11 5
+R 1 1
+B 25 6
+
+R 12 2
+B 5 5
+
+R 23 3
+B 10 4
+
+R 9 4
+B 15 3
+
+R 20 5
+B 20 2
+SWITCH OWNERSHIP
+
+5
+testing with 11 6
+R 1 1
+B 25 6
+
+R 12 2
+B 6 5
+
+R 23 3
+B 12 4
+
+R 9 4
+B 18 3
+
+R 20 5
+B 24 2
+
+R 6 6
+B 5 1
+SWITCH OWNERSHIP
+
+6
+testing with 11 7
+R 1 1
+B 25 6
+
+R 12 2
+B 7 5
+
+R 23 3
+B 14 4
+
+R 9 4
+B 21 3
+SWITCH OWNERSHIP
+
+4
+testing with 11 8
+R 1 1
+B 25 6
+
+R 12 2
+B 8 5
+
+R 23 3
+B 16 4
+SWITCH OWNERSHIP
+
+3
+testing with 11 9
+R 1 1
+B 25 6
+
+R 12 2
+B 9 5
+
+R 23 3
+B 18 4
+
+R 9 4
+B 2 3
+
+R 20 5
+B 11 2
+SWITCH OWNERSHIP
+
+5
+testing with 11 10
+R 1 1
+B 25 6
+
+R 12 2
+B 10 5
+
+R 23 3
+B 20 4
+
+R 9 4
+B 5 3
+
+R 20 5
+B 15 2
+
+R 6 6
+B 25 1
+
+R 17 1
+B 10 6
+SWITCH OWNERSHIP
+
+7
+testing with 11 11
+R 1 1
+B 25 6
+
+R 12 2
+B 11 5
+
+R 23 3
+B 22 4
+
+R 9 4
+B 8 3
+
+R 20 5
+B 19 2
+SWITCH OWNERSHIP
+
+5
+testing with 11 12
+R 1 1
+B 25 6
+
+R 12 2
+B 12 5
+
+R 23 3
+B 24 4
+
+R 9 4
+B 11 3
+SWITCH OWNERSHIP
+
+4
+testing with 11 13
+R 1 1
+B 25 6
+
+R 12 2
+B 13 5
+SWITCH OWNERSHIP
+
+2
+testing with 11 14
+R 1 1
+B 25 6
+
+R 12 2
+B 14 5
+SWITCH OWNERSHIP
+
+2
+testing with 11 15
+R 1 1
+B 25 6
+
+R 12 2
+B 15 5
+
+R 23 3
+B 5 4
+
+R 9 4
+B 20 3
+
+R 20 5
+B 10 2
+SWITCH OWNERSHIP
+
+5
+testing with 11 16
+R 1 1
+B 25 6
+
+R 12 2
+B 16 5
+SWITCH OWNERSHIP
+
+2
+testing with 11 17
+R 1 1
+B 25 6
+
+R 12 2
+B 17 5
+
+R 23 3
+B 9 4
+SWITCH OWNERSHIP
+
+3
+testing with 11 18
+R 1 1
+B 25 6
+
+R 12 2
+B 18 5
+
+R 23 3
+B 11 4
+
+R 9 4
+B 4 3
+SWITCH OWNERSHIP
+
+4
+testing with 11 19
+R 1 1
+B 25 6
+
+R 12 2
+B 19 5
+
+R 23 3
+B 13 4
+SWITCH OWNERSHIP
+
+3
+testing with 11 20
+R 1 1
+B 25 6
+
+R 12 2
+B 20 5
+SWITCH OWNERSHIP
+
+2
+testing with 11 21
+R 1 1
+B 25 6
+
+R 12 2
+B 21 5
+
+R 23 3
+B 17 4
+
+R 9 4
+B 13 3
+
+R 20 5
+B 9 2
+SWITCH OWNERSHIP
+
+5
+testing with 11 22
+R 1 1
+B 25 6
+
+R 12 2
+B 22 5
+SWITCH OWNERSHIP
+
+2
+testing with 11 23
+R 1 1
+B 25 6
+
+R 12 2
+B 23 5
+
+R 23 3
+B 21 4
+
+R 9 4
+B 19 3
+
+R 20 5
+B 17 2
+
+R 6 6
+B 15 1
+
+R 17 1
+B 13 6
+SWITCH OWNERSHIP
+
+7
+testing with 11 24
+R 1 1
+B 25 6
+
+R 12 2
+B 24 5
+
+R 23 3
+B 23 4
+
+R 9 4
+B 22 3
+
+R 20 5
+B 21 2
+
+R 6 6
+B 20 1
+
+R 17 1
+B 19 6
+
+R 3 2
+B 18 5
+SWITCH OWNERSHIP
+
+8
+testing with 11 25
+R 1 1
+B 25 6
+
+R 12 2
+B 25 5
+
+R 23 3
+B 25 4
+
+R 9 4
+B 25 3
+
+R 20 5
+B 25 2
+
+R 6 6
+B 25 1
+
+R 17 1
+B 25 6
+
+R 3 2
+B 25 5
+
+R 14 3
+B 25 4
+SWITCH OWNERSHIP
+
+9
+testing with 12 1
+R 1 1
+B 25 6
+
+R 13 2
+B 1 5
+SWITCH OWNERSHIP
+
+2
+testing with 12 2
+R 1 1
+B 25 6
+
+R 13 2
+B 2 5
+
+R 25 3
+B 4 4
+SWITCH OWNERSHIP
+
+3
+testing with 12 3
+R 1 1
+B 25 6
+
+R 13 2
+B 3 5
+
+R 25 3
+B 6 4
+
+R 12 4
+B 9 3
+SWITCH OWNERSHIP
+
+4
+testing with 12 4
+R 1 1
+B 25 6
+
+R 13 2
+B 4 5
+SWITCH OWNERSHIP
+
+2
+testing with 12 5
+R 1 1
+B 25 6
+
+R 13 2
+B 5 5
+
+R 25 3
+B 10 4
+
+R 12 4
+B 15 3
+
+R 24 5
+B 20 2
+SWITCH OWNERSHIP
+
+5
+testing with 12 6
+R 1 1
+B 25 6
+
+R 13 2
+B 6 5
+
+R 25 3
+B 12 4
+SWITCH OWNERSHIP
+
+3
+testing with 12 7
+R 1 1
+B 25 6
+
+R 13 2
+B 7 5
+
+R 25 3
+B 14 4
+
+R 12 4
+B 21 3
+SWITCH OWNERSHIP
+
+4
+testing with 12 8
+R 1 1
+B 25 6
+
+R 13 2
+B 8 5
+
+R 25 3
+B 16 4
+
+R 12 4
+B 24 3
+SWITCH OWNERSHIP
+
+4
+testing with 12 9
+R 1 1
+B 25 6
+
+R 13 2
+B 9 5
+
+R 25 3
+B 18 4
+
+R 12 4
+B 2 3
+
+R 24 5
+B 11 2
+
+R 11 6
+B 20 1
+
+R 23 1
+B 4 6
+SWITCH OWNERSHIP
+
+7
+testing with 12 10
+R 1 1
+B 25 6
+
+R 13 2
+B 10 5
+
+R 25 3
+B 20 4
+
+R 12 4
+B 5 3
+
+R 24 5
+B 15 2
+
+R 11 6
+B 25 1
+
+R 23 1
+B 10 6
+
+R 10 2
+B 20 5
+SWITCH OWNERSHIP
+
+8
+testing with 12 11
+R 1 1
+B 25 6
+
+R 13 2
+B 11 5
+
+R 25 3
+B 22 4
+
+R 12 4
+B 8 3
+
+R 24 5
+B 19 2
+SWITCH OWNERSHIP
+
+5
+testing with 12 12
+R 1 1
+B 25 6
+
+R 13 2
+B 12 5
+
+R 25 3
+B 24 4
+
+R 12 4
+B 11 3
+
+R 24 5
+B 23 2
+SWITCH OWNERSHIP
+
+5
+testing with 12 13
+R 1 1
+B 25 6
+
+R 13 2
+B 13 5
+SWITCH OWNERSHIP
+
+2
+testing with 12 14
+R 1 1
+B 25 6
+
+R 13 2
+B 14 5
+SWITCH OWNERSHIP
+
+2
+testing with 12 15
+R 1 1
+B 25 6
+
+R 13 2
+B 15 5
+SWITCH OWNERSHIP
+
+2
+testing with 12 16
+R 1 1
+B 25 6
+
+R 13 2
+B 16 5
+
+R 25 3
+B 7 4
+
+R 12 4
+B 23 3
+SWITCH OWNERSHIP
+
+4
+testing with 12 17
+R 1 1
+B 25 6
+
+R 13 2
+B 17 5
+
+R 25 3
+B 9 4
+SWITCH OWNERSHIP
+
+3
+testing with 12 18
+R 1 1
+B 25 6
+
+R 13 2
+B 18 5
+
+R 25 3
+B 11 4
+
+R 12 4
+B 4 3
+
+R 24 5
+B 22 2
+SWITCH OWNERSHIP
+
+5
+testing with 12 19
+R 1 1
+B 25 6
+
+R 13 2
+B 19 5
+
+R 25 3
+B 13 4
+SWITCH OWNERSHIP
+
+3
+testing with 12 20
+R 1 1
+B 25 6
+
+R 13 2
+B 20 5
+
+R 25 3
+B 15 4
+
+R 12 4
+B 10 3
+
+R 24 5
+B 5 2
+
+R 11 6
+B 25 1
+
+R 23 1
+B 20 6
+
+R 10 2
+B 15 5
+
+R 22 3
+B 10 4
+SWITCH OWNERSHIP
+
+9
+testing with 12 21
+R 1 1
+B 25 6
+
+R 13 2
+B 21 5
+
+R 25 3
+B 17 4
+
+R 12 4
+B 13 3
+
+R 24 5
+B 9 2
+
+R 11 6
+B 5 1
+
+R 23 1
+B 1 6
+SWITCH OWNERSHIP
+
+7
+testing with 12 22
+R 1 1
+B 25 6
+
+R 13 2
+B 22 5
+
+R 25 3
+B 19 4
+SWITCH OWNERSHIP
+
+3
+testing with 12 23
+R 1 1
+B 25 6
+
+R 13 2
+B 23 5
+
+R 25 3
+B 21 4
+
+R 12 4
+B 19 3
+
+R 24 5
+B 17 2
+
+R 11 6
+B 15 1
+
+R 23 1
+B 13 6
+
+R 10 2
+B 11 5
+
+R 22 3
+B 9 4
+
+R 9 4
+B 7 3
+SWITCH OWNERSHIP
+
+10
+testing with 12 24
+R 1 1
+B 25 6
+
+R 13 2
+B 24 5
+SWITCH OWNERSHIP
+
+2
+testing with 12 25
+R 1 1
+B 25 6
+
+R 13 2
+B 25 5
+
+R 25 3
+B 25 4
+
+R 12 4
+B 25 3
+SWITCH OWNERSHIP
+
+4
+testing with 13 1
+R 1 1
+B 25 6
+
+R 14 2
+B 1 5
+SWITCH OWNERSHIP
+
+2
+testing with 13 2
+R 1 1
+B 25 6
+
+R 14 2
+B 2 5
+
+R 2 3
+B 4 4
+SWITCH OWNERSHIP
+
+3
+testing with 13 3
+R 1 1
+B 25 6
+
+R 14 2
+B 3 5
+
+R 2 3
+B 6 4
+
+R 15 4
+B 9 3
+SWITCH OWNERSHIP
+
+4
+testing with 13 4
+R 1 1
+B 25 6
+
+R 14 2
+B 4 5
+
+R 2 3
+B 8 4
+
+R 15 4
+B 12 3
+
+R 3 5
+B 16 2
+SWITCH OWNERSHIP
+
+5
+testing with 13 5
+R 1 1
+B 25 6
+
+R 14 2
+B 5 5
+
+R 2 3
+B 10 4
+
+R 15 4
+B 15 3
+
+R 3 5
+B 20 2
+
+R 16 6
+B 25 1
+SWITCH OWNERSHIP
+
+6
+testing with 13 6
+R 1 1
+B 25 6
+
+R 14 2
+B 6 5
+
+R 2 3
+B 12 4
+SWITCH OWNERSHIP
+
+3
+testing with 13 7
+R 1 1
+B 25 6
+
+R 14 2
+B 7 5
+
+R 2 3
+B 14 4
+
+R 15 4
+B 21 3
+
+R 3 5
+B 3 2
+
+R 16 6
+B 10 1
+
+R 4 1
+B 17 6
+
+R 17 2
+B 24 5
+SWITCH OWNERSHIP
+
+8
+testing with 13 8
+R 1 1
+B 25 6
+
+R 14 2
+B 8 5
+
+R 2 3
+B 16 4
+
+R 15 4
+B 24 3
+
+R 3 5
+B 7 2
+
+R 16 6
+B 15 1
+
+R 4 1
+B 23 6
+
+R 17 2
+B 6 5
+
+R 5 3
+B 14 4
+SWITCH OWNERSHIP
+
+9
+testing with 13 9
+R 1 1
+B 25 6
+
+R 14 2
+B 9 5
+
+R 2 3
+B 18 4
+SWITCH OWNERSHIP
+
+3
+testing with 13 10
+R 1 1
+B 25 6
+
+R 14 2
+B 10 5
+
+R 2 3
+B 20 4
+
+R 15 4
+B 5 3
+SWITCH OWNERSHIP
+
+4
+testing with 13 11
+R 1 1
+B 25 6
+
+R 14 2
+B 11 5
+
+R 2 3
+B 22 4
+
+R 15 4
+B 8 3
+
+R 3 5
+B 19 2
+
+R 16 6
+B 5 1
+
+R 4 1
+B 16 6
+SWITCH OWNERSHIP
+
+7
+testing with 13 12
+R 1 1
+B 25 6
+
+R 14 2
+B 12 5
+
+R 2 3
+B 24 4
+
+R 15 4
+B 11 3
+
+R 3 5
+B 23 2
+
+R 16 6
+B 10 1
+SWITCH OWNERSHIP
+
+6
+testing with 13 13
+R 1 1
+B 25 6
+
+R 14 2
+B 13 5
+
+R 2 3
+B 1 4
+
+R 15 4
+B 14 3
+SWITCH OWNERSHIP
+
+4
+testing with 13 14
+R 1 1
+B 25 6
+
+R 14 2
+B 14 5
+SWITCH OWNERSHIP
+
+2
+testing with 13 15
+R 1 1
+B 25 6
+
+R 14 2
+B 15 5
+SWITCH OWNERSHIP
+
+2
+testing with 13 16
+R 1 1
+B 25 6
+
+R 14 2
+B 16 5
+SWITCH OWNERSHIP
+
+2
+testing with 13 17
+R 1 1
+B 25 6
+
+R 14 2
+B 17 5
+
+R 2 3
+B 9 4
+SWITCH OWNERSHIP
+
+3
+testing with 13 18
+R 1 1
+B 25 6
+
+R 14 2
+B 18 5
+SWITCH OWNERSHIP
+
+2
+testing with 13 19
+R 1 1
+B 25 6
+
+R 14 2
+B 19 5
+
+R 2 3
+B 13 4
+
+R 15 4
+B 7 3
+
+R 3 5
+B 1 2
+
+R 16 6
+B 20 1
+
+R 4 1
+B 14 6
+
+R 17 2
+B 8 5
+SWITCH OWNERSHIP
+
+8
+testing with 13 20
+R 1 1
+B 25 6
+
+R 14 2
+B 20 5
+
+R 2 3
+B 15 4
+SWITCH OWNERSHIP
+
+3
+testing with 13 21
+R 1 1
+B 25 6
+
+R 14 2
+B 21 5
+
+R 2 3
+B 17 4
+
+R 15 4
+B 13 3
+SWITCH OWNERSHIP
+
+4
+testing with 13 22
+R 1 1
+B 25 6
+
+R 14 2
+B 22 5
+
+R 2 3
+B 19 4
+
+R 15 4
+B 16 3
+
+R 3 5
+B 13 2
+
+R 16 6
+B 10 1
+
+R 4 1
+B 7 6
+SWITCH OWNERSHIP
+
+7
+testing with 13 23
+R 1 1
+B 25 6
+
+R 14 2
+B 23 5
+
+R 2 3
+B 21 4
+SWITCH OWNERSHIP
+
+3
+testing with 13 24
+R 1 1
+B 25 6
+
+R 14 2
+B 24 5
+
+R 2 3
+B 23 4
+
+R 15 4
+B 22 3
+SWITCH OWNERSHIP
+
+4
+testing with 13 25
+R 1 1
+B 25 6
+
+R 14 2
+B 25 5
+
+R 2 3
+B 25 4
+
+R 15 4
+B 25 3
+
+R 3 5
+B 25 2
+
+R 16 6
+B 25 1
+
+R 4 1
+B 25 6
+
+R 17 2
+B 25 5
+
+R 5 3
+B 25 4
+SWITCH OWNERSHIP
+
+9
+testing with 14 1
+R 1 1
+B 25 6
+
+R 15 2
+B 1 5
+SWITCH OWNERSHIP
+
+2
+testing with 14 2
+R 1 1
+B 25 6
+
+R 15 2
+B 2 5
+
+R 4 3
+B 4 4
+SWITCH OWNERSHIP
+
+3
+testing with 14 3
+R 1 1
+B 25 6
+
+R 15 2
+B 3 5
+SWITCH OWNERSHIP
+
+2
+testing with 14 4
+R 1 1
+B 25 6
+
+R 15 2
+B 4 5
+
+R 4 3
+B 8 4
+
+R 18 4
+B 12 3
+SWITCH OWNERSHIP
+
+4
+testing with 14 5
+R 1 1
+B 25 6
+
+R 15 2
+B 5 5
+
+R 4 3
+B 10 4
+
+R 18 4
+B 15 3
+
+R 7 5
+B 20 2
+SWITCH OWNERSHIP
+
+5
+testing with 14 6
+R 1 1
+B 25 6
+
+R 15 2
+B 6 5
+
+R 4 3
+B 12 4
+
+R 18 4
+B 18 3
+
+R 7 5
+B 24 2
+
+R 21 6
+B 5 1
+
+R 10 1
+B 11 6
+SWITCH OWNERSHIP
+
+7
+testing with 14 7
+R 1 1
+B 25 6
+
+R 15 2
+B 7 5
+SWITCH OWNERSHIP
+
+2
+testing with 14 8
+R 1 1
+B 25 6
+
+R 15 2
+B 8 5
+
+R 4 3
+B 16 4
+
+R 18 4
+B 24 3
+
+R 7 5
+B 7 2
+SWITCH OWNERSHIP
+
+5
+testing with 14 9
+R 1 1
+B 25 6
+
+R 15 2
+B 9 5
+
+R 4 3
+B 18 4
+SWITCH OWNERSHIP
+
+3
+testing with 14 10
+R 1 1
+B 25 6
+
+R 15 2
+B 10 5
+
+R 4 3
+B 20 4
+
+R 18 4
+B 5 3
+SWITCH OWNERSHIP
+
+4
+testing with 14 11
+R 1 1
+B 25 6
+
+R 15 2
+B 11 5
+
+R 4 3
+B 22 4
+
+R 18 4
+B 8 3
+
+R 7 5
+B 19 2
+
+R 21 6
+B 5 1
+
+R 10 1
+B 16 6
+SWITCH OWNERSHIP
+
+7
+testing with 14 12
+R 1 1
+B 25 6
+
+R 15 2
+B 12 5
+
+R 4 3
+B 24 4
+
+R 18 4
+B 11 3
+
+R 7 5
+B 23 2
+
+R 21 6
+B 10 1
+SWITCH OWNERSHIP
+
+6
+testing with 14 13
+R 1 1
+B 25 6
+
+R 15 2
+B 13 5
+
+R 4 3
+B 1 4
+
+R 18 4
+B 14 3
+
+R 7 5
+B 2 2
+
+R 21 6
+B 15 1
+
+R 10 1
+B 3 6
+SWITCH OWNERSHIP
+
+7
+testing with 14 14
+R 1 1
+B 25 6
+
+R 15 2
+B 14 5
+
+R 4 3
+B 3 4
+
+R 18 4
+B 17 3
+
+R 7 5
+B 6 2
+SWITCH OWNERSHIP
+
+5
+testing with 14 15
+R 1 1
+B 25 6
+
+R 15 2
+B 15 5
+SWITCH OWNERSHIP
+
+2
+testing with 14 16
+R 1 1
+B 25 6
+
+R 15 2
+B 16 5
+
+R 4 3
+B 7 4
+
+R 18 4
+B 23 3
+
+R 7 5
+B 14 2
+SWITCH OWNERSHIP
+
+5
+testing with 14 17
+R 1 1
+B 25 6
+
+R 15 2
+B 17 5
+
+R 4 3
+B 9 4
+
+R 18 4
+B 1 3
+SWITCH OWNERSHIP
+
+4
+testing with 14 18
+R 1 1
+B 25 6
+
+R 15 2
+B 18 5
+SWITCH OWNERSHIP
+
+2
+testing with 14 19
+R 1 1
+B 25 6
+
+R 15 2
+B 19 5
+
+R 4 3
+B 13 4
+
+R 18 4
+B 7 3
+
+R 7 5
+B 1 2
+
+R 21 6
+B 20 1
+
+R 10 1
+B 14 6
+
+R 24 2
+B 8 5
+SWITCH OWNERSHIP
+
+8
+testing with 14 20
+R 1 1
+B 25 6
+
+R 15 2
+B 20 5
+
+R 4 3
+B 15 4
+SWITCH OWNERSHIP
+
+3
+testing with 14 21
+R 1 1
+B 25 6
+
+R 15 2
+B 21 5
+
+R 4 3
+B 17 4
+
+R 18 4
+B 13 3
+
+R 7 5
+B 9 2
+
+R 21 6
+B 5 1
+
+R 10 1
+B 1 6
+
+R 24 2
+B 22 5
+
+R 13 3
+B 18 4
+SWITCH OWNERSHIP
+
+9
+testing with 14 22
+R 1 1
+B 25 6
+
+R 15 2
+B 22 5
+
+R 4 3
+B 19 4
+
+R 18 4
+B 16 3
+
+R 7 5
+B 13 2
+
+R 21 6
+B 10 1
+SWITCH OWNERSHIP
+
+6
+testing with 14 23
+R 1 1
+B 25 6
+
+R 15 2
+B 23 5
+
+R 4 3
+B 21 4
+
+R 18 4
+B 19 3
+
+R 7 5
+B 17 2
+
+R 21 6
+B 15 1
+
+R 10 1
+B 13 6
+SWITCH OWNERSHIP
+
+7
+testing with 14 24
+R 1 1
+B 25 6
+
+R 15 2
+B 24 5
+
+R 4 3
+B 23 4
+
+R 18 4
+B 22 3
+
+R 7 5
+B 21 2
+
+R 21 6
+B 20 1
+
+R 10 1
+B 19 6
+
+R 24 2
+B 18 5
+
+R 13 3
+B 17 4
+
+R 2 4
+B 16 3
+SWITCH OWNERSHIP
+
+10
+testing with 14 25
+R 1 1
+B 25 6
+
+R 15 2
+B 25 5
+SWITCH OWNERSHIP
+
+2
+testing with 15 1
+R 1 1
+B 25 6
+
+R 16 2
+B 1 5
+SWITCH OWNERSHIP
+
+2
+testing with 15 2
+R 1 1
+B 25 6
+
+R 16 2
+B 2 5
+
+R 6 3
+B 4 4
+
+R 21 4
+B 6 3
+SWITCH OWNERSHIP
+
+4
+testing with 15 3
+R 1 1
+B 25 6
+
+R 16 2
+B 3 5
+
+R 6 3
+B 6 4
+
+R 21 4
+B 9 3
+
+R 11 5
+B 12 2
+SWITCH OWNERSHIP
+
+5
+testing with 15 4
+R 1 1
+B 25 6
+
+R 16 2
+B 4 5
+
+R 6 3
+B 8 4
+
+R 21 4
+B 12 3
+
+R 11 5
+B 16 2
+SWITCH OWNERSHIP
+
+5
+testing with 15 5
+R 1 1
+B 25 6
+
+R 16 2
+B 5 5
+SWITCH OWNERSHIP
+
+2
+testing with 15 6
+R 1 1
+B 25 6
+
+R 16 2
+B 6 5
+
+R 6 3
+B 12 4
+
+R 21 4
+B 18 3
+
+R 11 5
+B 24 2
+
+R 1 6
+B 5 1
+SWITCH OWNERSHIP
+
+6
+testing with 15 7
+R 1 1
+B 25 6
+
+R 16 2
+B 7 5
+SWITCH OWNERSHIP
+
+2
+testing with 15 8
+R 1 1
+B 25 6
+
+R 16 2
+B 8 5
+
+R 6 3
+B 16 4
+
+R 21 4
+B 24 3
+
+R 11 5
+B 7 2
+
+R 1 6
+B 15 1
+
+R 16 1
+B 23 6
+SWITCH OWNERSHIP
+
+7
+testing with 15 9
+R 1 1
+B 25 6
+
+R 16 2
+B 9 5
+
+R 6 3
+B 18 4
+SWITCH OWNERSHIP
+
+3
+testing with 15 10
+R 1 1
+B 25 6
+
+R 16 2
+B 10 5
+
+R 6 3
+B 20 4
+
+R 21 4
+B 5 3
+SWITCH OWNERSHIP
+
+4
+testing with 15 11
+R 1 1
+B 25 6
+
+R 16 2
+B 11 5
+SWITCH OWNERSHIP
+
+2
+testing with 15 12
+R 1 1
+B 25 6
+
+R 16 2
+B 12 5
+
+R 6 3
+B 24 4
+
+R 21 4
+B 11 3
+
+R 11 5
+B 23 2
+SWITCH OWNERSHIP
+
+5
+testing with 15 13
+R 1 1
+B 25 6
+
+R 16 2
+B 13 5
+
+R 6 3
+B 1 4
+
+R 21 4
+B 14 3
+
+R 11 5
+B 2 2
+
+R 1 6
+B 15 1
+
+R 16 1
+B 3 6
+
+R 6 2
+B 16 5
+SWITCH OWNERSHIP
+
+8
+testing with 15 14
+R 1 1
+B 25 6
+
+R 16 2
+B 14 5
+
+R 6 3
+B 3 4
+
+R 21 4
+B 17 3
+
+R 11 5
+B 6 2
+SWITCH OWNERSHIP
+
+5
+testing with 15 15
+R 1 1
+B 25 6
+
+R 16 2
+B 15 5
+
+R 6 3
+B 5 4
+
+R 21 4
+B 20 3
+
+R 11 5
+B 10 2
+SWITCH OWNERSHIP
+
+5
+testing with 15 16
+R 1 1
+B 25 6
+
+R 16 2
+B 16 5
+
+R 6 3
+B 7 4
+
+R 21 4
+B 23 3
+
+R 11 5
+B 14 2
+
+R 1 6
+B 5 1
+
+R 16 1
+B 21 6
+SWITCH OWNERSHIP
+
+7
+testing with 15 17
+R 1 1
+B 25 6
+
+R 16 2
+B 17 5
+SWITCH OWNERSHIP
+
+2
+testing with 15 18
+R 1 1
+B 25 6
+
+R 16 2
+B 18 5
+SWITCH OWNERSHIP
+
+2
+testing with 15 19
+R 1 1
+B 25 6
+
+R 16 2
+B 19 5
+
+R 6 3
+B 13 4
+
+R 21 4
+B 7 3
+
+R 11 5
+B 1 2
+
+R 1 6
+B 20 1
+
+R 16 1
+B 14 6
+
+R 6 2
+B 8 5
+SWITCH OWNERSHIP
+
+8
+testing with 15 20
+R 1 1
+B 25 6
+
+R 16 2
+B 20 5
+
+R 6 3
+B 15 4
+
+R 21 4
+B 10 3
+
+R 11 5
+B 5 2
+
+R 1 6
+B 25 1
+
+R 16 1
+B 20 6
+
+R 6 2
+B 15 5
+
+R 21 3
+B 10 4
+SWITCH OWNERSHIP
+
+9
+testing with 15 21
+R 1 1
+B 25 6
+
+R 16 2
+B 21 5
+
+R 6 3
+B 17 4
+
+R 21 4
+B 13 3
+SWITCH OWNERSHIP
+
+4
+testing with 15 22
+R 1 1
+B 25 6
+
+R 16 2
+B 22 5
+
+R 6 3
+B 19 4
+
+R 21 4
+B 16 3
+
+R 11 5
+B 13 2
+
+R 1 6
+B 10 1
+SWITCH OWNERSHIP
+
+6
+testing with 15 23
+R 1 1
+B 25 6
+
+R 16 2
+B 23 5
+
+R 6 3
+B 21 4
+SWITCH OWNERSHIP
+
+3
+testing with 15 24
+R 1 1
+B 25 6
+
+R 16 2
+B 24 5
+
+R 6 3
+B 23 4
+
+R 21 4
+B 22 3
+SWITCH OWNERSHIP
+
+4
+testing with 15 25
+R 1 1
+B 25 6
+
+R 16 2
+B 25 5
+
+R 6 3
+B 25 4
+
+R 21 4
+B 25 3
+
+R 11 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 16 1
+B 25 6
+
+R 6 2
+B 25 5
+
+R 21 3
+B 25 4
+
+R 11 4
+B 25 3
+SWITCH OWNERSHIP
+
+10
+testing with 16 1
+R 1 1
+B 25 6
+
+R 17 2
+B 1 5
+SWITCH OWNERSHIP
+
+2
+testing with 16 2
+R 1 1
+B 25 6
+
+R 17 2
+B 2 5
+
+R 8 3
+B 4 4
+SWITCH OWNERSHIP
+
+3
+testing with 16 3
+R 1 1
+B 25 6
+
+R 17 2
+B 3 5
+
+R 8 3
+B 6 4
+
+R 24 4
+B 9 3
+SWITCH OWNERSHIP
+
+4
+testing with 16 4
+R 1 1
+B 25 6
+
+R 17 2
+B 4 5
+
+R 8 3
+B 8 4
+
+R 24 4
+B 12 3
+
+R 15 5
+B 16 2
+SWITCH OWNERSHIP
+
+5
+testing with 16 5
+R 1 1
+B 25 6
+
+R 17 2
+B 5 5
+
+R 8 3
+B 10 4
+
+R 24 4
+B 15 3
+
+R 15 5
+B 20 2
+
+R 6 6
+B 25 1
+SWITCH OWNERSHIP
+
+6
+testing with 16 6
+R 1 1
+B 25 6
+
+R 17 2
+B 6 5
+
+R 8 3
+B 12 4
+SWITCH OWNERSHIP
+
+3
+testing with 16 7
+R 1 1
+B 25 6
+
+R 17 2
+B 7 5
+SWITCH OWNERSHIP
+
+2
+testing with 16 8
+R 1 1
+B 25 6
+
+R 17 2
+B 8 5
+
+R 8 3
+B 16 4
+
+R 24 4
+B 24 3
+
+R 15 5
+B 7 2
+
+R 6 6
+B 15 1
+
+R 22 1
+B 23 6
+SWITCH OWNERSHIP
+
+7
+testing with 16 9
+R 1 1
+B 25 6
+
+R 17 2
+B 9 5
+
+R 8 3
+B 18 4
+
+R 24 4
+B 2 3
+SWITCH OWNERSHIP
+
+4
+testing with 16 10
+R 1 1
+B 25 6
+
+R 17 2
+B 10 5
+
+R 8 3
+B 20 4
+
+R 24 4
+B 5 3
+
+R 15 5
+B 15 2
+SWITCH OWNERSHIP
+
+5
+testing with 16 11
+R 1 1
+B 25 6
+
+R 17 2
+B 11 5
+SWITCH OWNERSHIP
+
+2
+testing with 16 12
+R 1 1
+B 25 6
+
+R 17 2
+B 12 5
+
+R 8 3
+B 24 4
+SWITCH OWNERSHIP
+
+3
+testing with 16 13
+R 1 1
+B 25 6
+
+R 17 2
+B 13 5
+
+R 8 3
+B 1 4
+
+R 24 4
+B 14 3
+SWITCH OWNERSHIP
+
+4
+testing with 16 14
+R 1 1
+B 25 6
+
+R 17 2
+B 14 5
+
+R 8 3
+B 3 4
+
+R 24 4
+B 17 3
+
+R 15 5
+B 6 2
+
+R 6 6
+B 20 1
+
+R 22 1
+B 9 6
+SWITCH OWNERSHIP
+
+7
+testing with 16 15
+R 1 1
+B 25 6
+
+R 17 2
+B 15 5
+SWITCH OWNERSHIP
+
+2
+testing with 16 16
+R 1 1
+B 25 6
+
+R 17 2
+B 16 5
+
+R 8 3
+B 7 4
+
+R 24 4
+B 23 3
+
+R 15 5
+B 14 2
+SWITCH OWNERSHIP
+
+5
+testing with 16 17
+R 1 1
+B 25 6
+
+R 17 2
+B 17 5
+SWITCH OWNERSHIP
+
+2
+testing with 16 18
+R 1 1
+B 25 6
+
+R 17 2
+B 18 5
+SWITCH OWNERSHIP
+
+2
+testing with 16 19
+R 1 1
+B 25 6
+
+R 17 2
+B 19 5
+SWITCH OWNERSHIP
+
+2
+testing with 16 20
+R 1 1
+B 25 6
+
+R 17 2
+B 20 5
+
+R 8 3
+B 15 4
+
+R 24 4
+B 10 3
+
+R 15 5
+B 5 2
+
+R 6 6
+B 25 1
+
+R 22 1
+B 20 6
+
+R 13 2
+B 15 5
+SWITCH OWNERSHIP
+
+8
+testing with 16 21
+R 1 1
+B 25 6
+
+R 17 2
+B 21 5
+
+R 8 3
+B 17 4
+SWITCH OWNERSHIP
+
+3
+testing with 16 22
+R 1 1
+B 25 6
+
+R 17 2
+B 22 5
+
+R 8 3
+B 19 4
+
+R 24 4
+B 16 3
+
+R 15 5
+B 13 2
+SWITCH OWNERSHIP
+
+5
+testing with 16 23
+R 1 1
+B 25 6
+
+R 17 2
+B 23 5
+
+R 8 3
+B 21 4
+SWITCH OWNERSHIP
+
+3
+testing with 16 24
+R 1 1
+B 25 6
+
+R 17 2
+B 24 5
+
+R 8 3
+B 23 4
+
+R 24 4
+B 22 3
+
+R 15 5
+B 21 2
+
+R 6 6
+B 20 1
+
+R 22 1
+B 19 6
+SWITCH OWNERSHIP
+
+7
+testing with 16 25
+R 1 1
+B 25 6
+
+R 17 2
+B 25 5
+
+R 8 3
+B 25 4
+
+R 24 4
+B 25 3
+
+R 15 5
+B 25 2
+
+R 6 6
+B 25 1
+
+R 22 1
+B 25 6
+
+R 13 2
+B 25 5
+SWITCH OWNERSHIP
+
+8
+testing with 17 1
+R 1 1
+B 25 6
+
+R 18 2
+B 1 5
+SWITCH OWNERSHIP
+
+2
+testing with 17 2
+R 1 1
+B 25 6
+
+R 18 2
+B 2 5
+
+R 10 3
+B 4 4
+SWITCH OWNERSHIP
+
+3
+testing with 17 3
+R 1 1
+B 25 6
+
+R 18 2
+B 3 5
+
+R 10 3
+B 6 4
+
+R 2 4
+B 9 3
+
+R 19 5
+B 12 2
+
+R 11 6
+B 15 1
+
+R 3 1
+B 18 6
+
+R 20 2
+B 21 5
+SWITCH OWNERSHIP
+
+8
+testing with 17 4
+R 1 1
+B 25 6
+
+R 18 2
+B 4 5
+
+R 10 3
+B 8 4
+
+R 2 4
+B 12 3
+
+R 19 5
+B 16 2
+
+R 11 6
+B 20 1
+
+R 3 1
+B 24 6
+
+R 20 2
+B 3 5
+
+R 12 3
+B 7 4
+SWITCH OWNERSHIP
+
+9
+testing with 17 5
+R 1 1
+B 25 6
+
+R 18 2
+B 5 5
+
+R 10 3
+B 10 4
+
+R 2 4
+B 15 3
+
+R 19 5
+B 20 2
+SWITCH OWNERSHIP
+
+5
+testing with 17 6
+R 1 1
+B 25 6
+
+R 18 2
+B 6 5
+
+R 10 3
+B 12 4
+
+R 2 4
+B 18 3
+
+R 19 5
+B 24 2
+
+R 11 6
+B 5 1
+
+R 3 1
+B 11 6
+SWITCH OWNERSHIP
+
+7
+testing with 17 7
+R 1 1
+B 25 6
+
+R 18 2
+B 7 5
+
+R 10 3
+B 14 4
+
+R 2 4
+B 21 3
+SWITCH OWNERSHIP
+
+4
+testing with 17 8
+R 1 1
+B 25 6
+
+R 18 2
+B 8 5
+
+R 10 3
+B 16 4
+
+R 2 4
+B 24 3
+
+R 19 5
+B 7 2
+
+R 11 6
+B 15 1
+SWITCH OWNERSHIP
+
+6
+testing with 17 9
+R 1 1
+B 25 6
+
+R 18 2
+B 9 5
+
+R 10 3
+B 18 4
+
+R 2 4
+B 2 3
+
+R 19 5
+B 11 2
+
+R 11 6
+B 20 1
+
+R 3 1
+B 4 6
+
+R 20 2
+B 13 5
+SWITCH OWNERSHIP
+
+8
+testing with 17 10
+R 1 1
+B 25 6
+
+R 18 2
+B 10 5
+
+R 10 3
+B 20 4
+
+R 2 4
+B 5 3
+
+R 19 5
+B 15 2
+
+R 11 6
+B 25 1
+
+R 3 1
+B 10 6
+
+R 20 2
+B 20 5
+
+R 12 3
+B 5 4
+
+R 4 4
+B 15 3
+SWITCH OWNERSHIP
+
+10
+testing with 17 11
+R 1 1
+B 25 6
+
+R 18 2
+B 11 5
+
+R 10 3
+B 22 4
+
+R 2 4
+B 8 3
+SWITCH OWNERSHIP
+
+4
+testing with 17 12
+R 1 1
+B 25 6
+
+R 18 2
+B 12 5
+
+R 10 3
+B 24 4
+SWITCH OWNERSHIP
+
+3
+testing with 17 13
+R 1 1
+B 25 6
+
+R 18 2
+B 13 5
+
+R 10 3
+B 1 4
+
+R 2 4
+B 14 3
+
+R 19 5
+B 2 2
+
+R 11 6
+B 15 1
+
+R 3 1
+B 3 6
+
+R 20 2
+B 16 5
+
+R 12 3
+B 4 4
+SWITCH OWNERSHIP
+
+9
+testing with 17 14
+R 1 1
+B 25 6
+
+R 18 2
+B 14 5
+SWITCH OWNERSHIP
+
+2
+testing with 17 15
+R 1 1
+B 25 6
+
+R 18 2
+B 15 5
+SWITCH OWNERSHIP
+
+2
+testing with 17 16
+R 1 1
+B 25 6
+
+R 18 2
+B 16 5
+
+R 10 3
+B 7 4
+
+R 2 4
+B 23 3
+
+R 19 5
+B 14 2
+
+R 11 6
+B 5 1
+
+R 3 1
+B 21 6
+
+R 20 2
+B 12 5
+
+R 12 3
+B 3 4
+
+R 4 4
+B 19 3
+SWITCH OWNERSHIP
+
+10
+testing with 17 17
+R 1 1
+B 25 6
+
+R 18 2
+B 17 5
+
+R 10 3
+B 9 4
+
+R 2 4
+B 1 3
+SWITCH OWNERSHIP
+
+4
+testing with 17 18
+R 1 1
+B 25 6
+
+R 18 2
+B 18 5
+SWITCH OWNERSHIP
+
+2
+testing with 17 19
+R 1 1
+B 25 6
+
+R 18 2
+B 19 5
+SWITCH OWNERSHIP
+
+2
+testing with 17 20
+R 1 1
+B 25 6
+
+R 18 2
+B 20 5
+SWITCH OWNERSHIP
+
+2
+testing with 17 21
+R 1 1
+B 25 6
+
+R 18 2
+B 21 5
+
+R 10 3
+B 17 4
+SWITCH OWNERSHIP
+
+3
+testing with 17 22
+R 1 1
+B 25 6
+
+R 18 2
+B 22 5
+
+R 10 3
+B 19 4
+
+R 2 4
+B 16 3
+
+R 19 5
+B 13 2
+
+R 11 6
+B 10 1
+
+R 3 1
+B 7 6
+
+R 20 2
+B 4 5
+
+R 12 3
+B 1 4
+
+R 4 4
+B 23 3
+
+R 21 5
+B 20 2
+SWITCH OWNERSHIP
+
+11
+testing with 17 23
+R 1 1
+B 25 6
+
+R 18 2
+B 23 5
+
+R 10 3
+B 21 4
+
+R 2 4
+B 19 3
+
+R 19 5
+B 17 2
+
+R 11 6
+B 15 1
+
+R 3 1
+B 13 6
+
+R 20 2
+B 11 5
+
+R 12 3
+B 9 4
+
+R 4 4
+B 7 3
+
+R 21 5
+B 5 2
+
+R 13 6
+B 3 1
+SWITCH OWNERSHIP
+
+12
+testing with 17 24
+R 1 1
+B 25 6
+
+R 18 2
+B 24 5
+
+R 10 3
+B 23 4
+
+R 2 4
+B 22 3
+
+R 19 5
+B 21 2
+
+R 11 6
+B 20 1
+
+R 3 1
+B 19 6
+
+R 20 2
+B 18 5
+
+R 12 3
+B 17 4
+
+R 4 4
+B 16 3
+
+R 21 5
+B 15 2
+
+R 13 6
+B 14 1
+
+R 5 1
+B 13 6
+SWITCH OWNERSHIP
+
+13
+testing with 17 25
+R 1 1
+B 25 6
+
+R 18 2
+B 25 5
+
+R 10 3
+B 25 4
+
+R 2 4
+B 25 3
+
+R 19 5
+B 25 2
+
+R 11 6
+B 25 1
+
+R 3 1
+B 25 6
+
+R 20 2
+B 25 5
+
+R 12 3
+B 25 4
+
+R 4 4
+B 25 3
+
+R 21 5
+B 25 2
+
+R 13 6
+B 25 1
+
+R 5 1
+B 25 6
+
+R 22 2
+B 25 5
+SWITCH OWNERSHIP
+
+14
+testing with 18 1
+R 1 1
+B 25 6
+
+R 19 2
+B 1 5
+SWITCH OWNERSHIP
+
+2
+testing with 18 2
+R 1 1
+B 25 6
+
+R 19 2
+B 2 5
+
+R 12 3
+B 4 4
+SWITCH OWNERSHIP
+
+3
+testing with 18 3
+R 1 1
+B 25 6
+
+R 19 2
+B 3 5
+
+R 12 3
+B 6 4
+
+R 5 4
+B 9 3
+SWITCH OWNERSHIP
+
+4
+testing with 18 4
+R 1 1
+B 25 6
+
+R 19 2
+B 4 5
+
+R 12 3
+B 8 4
+
+R 5 4
+B 12 3
+SWITCH OWNERSHIP
+
+4
+testing with 18 5
+R 1 1
+B 25 6
+
+R 19 2
+B 5 5
+
+R 12 3
+B 10 4
+SWITCH OWNERSHIP
+
+3
+testing with 18 6
+R 1 1
+B 25 6
+
+R 19 2
+B 6 5
+
+R 12 3
+B 12 4
+
+R 5 4
+B 18 3
+
+R 23 5
+B 24 2
+
+R 16 6
+B 5 1
+SWITCH OWNERSHIP
+
+6
+testing with 18 7
+R 1 1
+B 25 6
+
+R 19 2
+B 7 5
+
+R 12 3
+B 14 4
+
+R 5 4
+B 21 3
+
+R 23 5
+B 3 2
+
+R 16 6
+B 10 1
+
+R 9 1
+B 17 6
+SWITCH OWNERSHIP
+
+7
+testing with 18 8
+R 1 1
+B 25 6
+
+R 19 2
+B 8 5
+
+R 12 3
+B 16 4
+SWITCH OWNERSHIP
+
+3
+testing with 18 9
+R 1 1
+B 25 6
+
+R 19 2
+B 9 5
+
+R 12 3
+B 18 4
+
+R 5 4
+B 2 3
+
+R 23 5
+B 11 2
+
+R 16 6
+B 20 1
+
+R 9 1
+B 4 6
+
+R 2 2
+B 13 5
+SWITCH OWNERSHIP
+
+8
+testing with 18 10
+R 1 1
+B 25 6
+
+R 19 2
+B 10 5
+
+R 12 3
+B 20 4
+
+R 5 4
+B 5 3
+
+R 23 5
+B 15 2
+
+R 16 6
+B 25 1
+
+R 9 1
+B 10 6
+
+R 2 2
+B 20 5
+SWITCH OWNERSHIP
+
+8
+testing with 18 11
+R 1 1
+B 25 6
+
+R 19 2
+B 11 5
+SWITCH OWNERSHIP
+
+2
+testing with 18 12
+R 1 1
+B 25 6
+
+R 19 2
+B 12 5
+
+R 12 3
+B 24 4
+
+R 5 4
+B 11 3
+SWITCH OWNERSHIP
+
+4
+testing with 18 13
+R 1 1
+B 25 6
+
+R 19 2
+B 13 5
+
+R 12 3
+B 1 4
+
+R 5 4
+B 14 3
+
+R 23 5
+B 2 2
+SWITCH OWNERSHIP
+
+5
+testing with 18 14
+R 1 1
+B 25 6
+
+R 19 2
+B 14 5
+
+R 12 3
+B 3 4
+
+R 5 4
+B 17 3
+
+R 23 5
+B 6 2
+
+R 16 6
+B 20 1
+SWITCH OWNERSHIP
+
+6
+testing with 18 15
+R 1 1
+B 25 6
+
+R 19 2
+B 15 5
+
+R 12 3
+B 5 4
+SWITCH OWNERSHIP
+
+3
+testing with 18 16
+R 1 1
+B 25 6
+
+R 19 2
+B 16 5
+
+R 12 3
+B 7 4
+
+R 5 4
+B 23 3
+SWITCH OWNERSHIP
+
+4
+testing with 18 17
+R 1 1
+B 25 6
+
+R 19 2
+B 17 5
+
+R 12 3
+B 9 4
+
+R 5 4
+B 1 3
+
+R 23 5
+B 18 2
+SWITCH OWNERSHIP
+
+5
+testing with 18 18
+R 1 1
+B 25 6
+
+R 19 2
+B 18 5
+
+R 12 3
+B 11 4
+SWITCH OWNERSHIP
+
+3
+testing with 18 19
+R 1 1
+B 25 6
+
+R 19 2
+B 19 5
+
+R 12 3
+B 13 4
+
+R 5 4
+B 7 3
+SWITCH OWNERSHIP
+
+4
+testing with 18 20
+R 1 1
+B 25 6
+
+R 19 2
+B 20 5
+SWITCH OWNERSHIP
+
+2
+testing with 18 21
+R 1 1
+B 25 6
+
+R 19 2
+B 21 5
+SWITCH OWNERSHIP
+
+2
+testing with 18 22
+R 1 1
+B 25 6
+
+R 19 2
+B 22 5
+
+R 12 3
+B 19 4
+
+R 5 4
+B 16 3
+
+R 23 5
+B 13 2
+
+R 16 6
+B 10 1
+
+R 9 1
+B 7 6
+
+R 2 2
+B 4 5
+SWITCH OWNERSHIP
+
+8
+testing with 18 23
+R 1 1
+B 25 6
+
+R 19 2
+B 23 5
+SWITCH OWNERSHIP
+
+2
+testing with 18 24
+R 1 1
+B 25 6
+
+R 19 2
+B 24 5
+
+R 12 3
+B 23 4
+
+R 5 4
+B 22 3
+
+R 23 5
+B 21 2
+SWITCH OWNERSHIP
+
+5
+testing with 18 25
+R 1 1
+B 25 6
+
+R 19 2
+B 25 5
+
+R 12 3
+B 25 4
+
+R 5 4
+B 25 3
+
+R 23 5
+B 25 2
+
+R 16 6
+B 25 1
+
+R 9 1
+B 25 6
+
+R 2 2
+B 25 5
+
+R 20 3
+B 25 4
+SWITCH OWNERSHIP
+
+9
+testing with 19 1
+R 1 1
+B 25 6
+
+R 20 2
+B 1 5
+SWITCH OWNERSHIP
+
+2
+testing with 19 2
+R 1 1
+B 25 6
+
+R 20 2
+B 2 5
+
+R 14 3
+B 4 4
+SWITCH OWNERSHIP
+
+3
+testing with 19 3
+R 1 1
+B 25 6
+
+R 20 2
+B 3 5
+SWITCH OWNERSHIP
+
+2
+testing with 19 4
+R 1 1
+B 25 6
+
+R 20 2
+B 4 5
+
+R 14 3
+B 8 4
+
+R 8 4
+B 12 3
+SWITCH OWNERSHIP
+
+4
+testing with 19 5
+R 1 1
+B 25 6
+
+R 20 2
+B 5 5
+
+R 14 3
+B 10 4
+
+R 8 4
+B 15 3
+
+R 2 5
+B 20 2
+SWITCH OWNERSHIP
+
+5
+testing with 19 6
+R 1 1
+B 25 6
+
+R 20 2
+B 6 5
+
+R 14 3
+B 12 4
+
+R 8 4
+B 18 3
+
+R 2 5
+B 24 2
+
+R 21 6
+B 5 1
+SWITCH OWNERSHIP
+
+6
+testing with 19 7
+R 1 1
+B 25 6
+
+R 20 2
+B 7 5
+
+R 14 3
+B 14 4
+
+R 8 4
+B 21 3
+
+R 2 5
+B 3 2
+
+R 21 6
+B 10 1
+
+R 15 1
+B 17 6
+SWITCH OWNERSHIP
+
+7
+testing with 19 8
+R 1 1
+B 25 6
+
+R 20 2
+B 8 5
+
+R 14 3
+B 16 4
+
+R 8 4
+B 24 3
+
+R 2 5
+B 7 2
+
+R 21 6
+B 15 1
+SWITCH OWNERSHIP
+
+6
+testing with 19 9
+R 1 1
+B 25 6
+
+R 20 2
+B 9 5
+
+R 14 3
+B 18 4
+
+R 8 4
+B 2 3
+
+R 2 5
+B 11 2
+
+R 21 6
+B 20 1
+
+R 15 1
+B 4 6
+SWITCH OWNERSHIP
+
+7
+testing with 19 10
+R 1 1
+B 25 6
+
+R 20 2
+B 10 5
+
+R 14 3
+B 20 4
+
+R 8 4
+B 5 3
+
+R 2 5
+B 15 2
+
+R 21 6
+B 25 1
+
+R 15 1
+B 10 6
+
+R 9 2
+B 20 5
+SWITCH OWNERSHIP
+
+8
+testing with 19 11
+R 1 1
+B 25 6
+
+R 20 2
+B 11 5
+
+R 14 3
+B 22 4
+
+R 8 4
+B 8 3
+
+R 2 5
+B 19 2
+SWITCH OWNERSHIP
+
+5
+testing with 19 12
+R 1 1
+B 25 6
+
+R 20 2
+B 12 5
+
+R 14 3
+B 24 4
+
+R 8 4
+B 11 3
+SWITCH OWNERSHIP
+
+4
+testing with 19 13
+R 1 1
+B 25 6
+
+R 20 2
+B 13 5
+
+R 14 3
+B 1 4
+
+R 8 4
+B 14 3
+SWITCH OWNERSHIP
+
+4
+testing with 19 14
+R 1 1
+B 25 6
+
+R 20 2
+B 14 5
+
+R 14 3
+B 3 4
+SWITCH OWNERSHIP
+
+3
+testing with 19 15
+R 1 1
+B 25 6
+
+R 20 2
+B 15 5
+
+R 14 3
+B 5 4
+SWITCH OWNERSHIP
+
+3
+testing with 19 16
+R 1 1
+B 25 6
+
+R 20 2
+B 16 5
+
+R 14 3
+B 7 4
+
+R 8 4
+B 23 3
+
+R 2 5
+B 14 2
+
+R 21 6
+B 5 1
+SWITCH OWNERSHIP
+
+6
+testing with 19 17
+R 1 1
+B 25 6
+
+R 20 2
+B 17 5
+
+R 14 3
+B 9 4
+
+R 8 4
+B 1 3
+
+R 2 5
+B 18 2
+
+R 21 6
+B 10 1
+
+R 15 1
+B 2 6
+
+R 9 2
+B 19 5
+
+R 3 3
+B 11 4
+SWITCH OWNERSHIP
+
+9
+testing with 19 18
+R 1 1
+B 25 6
+
+R 20 2
+B 18 5
+
+R 14 3
+B 11 4
+
+R 8 4
+B 4 3
+
+R 2 5
+B 22 2
+SWITCH OWNERSHIP
+
+5
+testing with 19 19
+R 1 1
+B 25 6
+
+R 20 2
+B 19 5
+
+R 14 3
+B 13 4
+
+R 8 4
+B 7 3
+
+R 2 5
+B 1 2
+SWITCH OWNERSHIP
+
+5
+testing with 19 20
+R 1 1
+B 25 6
+
+R 20 2
+B 20 5
+
+R 14 3
+B 15 4
+
+R 8 4
+B 10 3
+SWITCH OWNERSHIP
+
+4
+testing with 19 21
+R 1 1
+B 25 6
+
+R 20 2
+B 21 5
+SWITCH OWNERSHIP
+
+2
+testing with 19 22
+R 1 1
+B 25 6
+
+R 20 2
+B 22 5
+
+R 14 3
+B 19 4
+
+R 8 4
+B 16 3
+
+R 2 5
+B 13 2
+SWITCH OWNERSHIP
+
+5
+testing with 19 23
+R 1 1
+B 25 6
+
+R 20 2
+B 23 5
+
+R 14 3
+B 21 4
+
+R 8 4
+B 19 3
+
+R 2 5
+B 17 2
+
+R 21 6
+B 15 1
+SWITCH OWNERSHIP
+
+6
+testing with 19 24
+R 1 1
+B 25 6
+
+R 20 2
+B 24 5
+
+R 14 3
+B 23 4
+
+R 8 4
+B 22 3
+
+R 2 5
+B 21 2
+
+R 21 6
+B 20 1
+
+R 15 1
+B 19 6
+SWITCH OWNERSHIP
+
+7
+testing with 19 25
+R 1 1
+B 25 6
+
+R 20 2
+B 25 5
+
+R 14 3
+B 25 4
+
+R 8 4
+B 25 3
+
+R 2 5
+B 25 2
+
+R 21 6
+B 25 1
+
+R 15 1
+B 25 6
+
+R 9 2
+B 25 5
+
+R 3 3
+B 25 4
+
+R 22 4
+B 25 3
+SWITCH OWNERSHIP
+
+10
+testing with 20 1
+R 1 1
+B 25 6
+
+R 21 2
+B 1 5
+SWITCH OWNERSHIP
+
+2
+testing with 20 2
+R 1 1
+B 25 6
+
+R 21 2
+B 2 5
+SWITCH OWNERSHIP
+
+2
+testing with 20 3
+R 1 1
+B 25 6
+
+R 21 2
+B 3 5
+
+R 16 3
+B 6 4
+SWITCH OWNERSHIP
+
+3
+testing with 20 4
+R 1 1
+B 25 6
+
+R 21 2
+B 4 5
+
+R 16 3
+B 8 4
+SWITCH OWNERSHIP
+
+3
+testing with 20 5
+R 1 1
+B 25 6
+
+R 21 2
+B 5 5
+
+R 16 3
+B 10 4
+SWITCH OWNERSHIP
+
+3
+testing with 20 6
+R 1 1
+B 25 6
+
+R 21 2
+B 6 5
+
+R 16 3
+B 12 4
+
+R 11 4
+B 18 3
+SWITCH OWNERSHIP
+
+4
+testing with 20 7
+R 1 1
+B 25 6
+
+R 21 2
+B 7 5
+
+R 16 3
+B 14 4
+
+R 11 4
+B 21 3
+
+R 6 5
+B 3 2
+SWITCH OWNERSHIP
+
+5
+testing with 20 8
+R 1 1
+B 25 6
+
+R 21 2
+B 8 5
+
+R 16 3
+B 16 4
+
+R 11 4
+B 24 3
+
+R 6 5
+B 7 2
+
+R 1 6
+B 15 1
+
+R 21 1
+B 23 6
+SWITCH OWNERSHIP
+
+7
+testing with 20 9
+R 1 1
+B 25 6
+
+R 21 2
+B 9 5
+
+R 16 3
+B 18 4
+
+R 11 4
+B 2 3
+
+R 6 5
+B 11 2
+
+R 1 6
+B 20 1
+
+R 21 1
+B 4 6
+
+R 16 2
+B 13 5
+SWITCH OWNERSHIP
+
+8
+testing with 20 10
+R 1 1
+B 25 6
+
+R 21 2
+B 10 5
+SWITCH OWNERSHIP
+
+2
+testing with 20 11
+R 1 1
+B 25 6
+
+R 21 2
+B 11 5
+
+R 16 3
+B 22 4
+SWITCH OWNERSHIP
+
+3
+testing with 20 12
+R 1 1
+B 25 6
+
+R 21 2
+B 12 5
+
+R 16 3
+B 24 4
+
+R 11 4
+B 11 3
+
+R 6 5
+B 23 2
+
+R 1 6
+B 10 1
+
+R 21 1
+B 22 6
+SWITCH OWNERSHIP
+
+7
+testing with 20 13
+R 1 1
+B 25 6
+
+R 21 2
+B 13 5
+
+R 16 3
+B 1 4
+SWITCH OWNERSHIP
+
+3
+testing with 20 14
+R 1 1
+B 25 6
+
+R 21 2
+B 14 5
+
+R 16 3
+B 3 4
+
+R 11 4
+B 17 3
+
+R 6 5
+B 6 2
+
+R 1 6
+B 20 1
+
+R 21 1
+B 9 6
+
+R 16 2
+B 23 5
+
+R 11 3
+B 12 4
+SWITCH OWNERSHIP
+
+9
+testing with 20 15
+R 1 1
+B 25 6
+
+R 21 2
+B 15 5
+
+R 16 3
+B 5 4
+
+R 11 4
+B 20 3
+SWITCH OWNERSHIP
+
+4
+testing with 20 16
+R 1 1
+B 25 6
+
+R 21 2
+B 16 5
+
+R 16 3
+B 7 4
+
+R 11 4
+B 23 3
+
+R 6 5
+B 14 2
+
+R 1 6
+B 5 1
+
+R 21 1
+B 21 6
+SWITCH OWNERSHIP
+
+7
+testing with 20 17
+R 1 1
+B 25 6
+
+R 21 2
+B 17 5
+SWITCH OWNERSHIP
+
+2
+testing with 20 18
+R 1 1
+B 25 6
+
+R 21 2
+B 18 5
+
+R 16 3
+B 11 4
+SWITCH OWNERSHIP
+
+3
+testing with 20 19
+R 1 1
+B 25 6
+
+R 21 2
+B 19 5
+
+R 16 3
+B 13 4
+
+R 11 4
+B 7 3
+SWITCH OWNERSHIP
+
+4
+testing with 20 20
+R 1 1
+B 25 6
+
+R 21 2
+B 20 5
+
+R 16 3
+B 15 4
+
+R 11 4
+B 10 3
+
+R 6 5
+B 5 2
+
+R 1 6
+B 25 1
+
+R 21 1
+B 20 6
+
+R 16 2
+B 15 5
+SWITCH OWNERSHIP
+
+8
+testing with 20 21
+R 1 1
+B 25 6
+
+R 21 2
+B 21 5
+
+R 16 3
+B 17 4
+
+R 11 4
+B 13 3
+
+R 6 5
+B 9 2
+
+R 1 6
+B 5 1
+
+R 21 1
+B 1 6
+SWITCH OWNERSHIP
+
+7
+testing with 20 22
+R 1 1
+B 25 6
+
+R 21 2
+B 22 5
+SWITCH OWNERSHIP
+
+2
+testing with 20 23
+R 1 1
+B 25 6
+
+R 21 2
+B 23 5
+SWITCH OWNERSHIP
+
+2
+testing with 20 24
+R 1 1
+B 25 6
+
+R 21 2
+B 24 5
+
+R 16 3
+B 23 4
+
+R 11 4
+B 22 3
+
+R 6 5
+B 21 2
+SWITCH OWNERSHIP
+
+5
+testing with 20 25
+R 1 1
+B 25 6
+
+R 21 2
+B 25 5
+SWITCH OWNERSHIP
+
+2
+testing with 21 1
+R 1 1
+B 25 6
+
+R 22 2
+B 1 5
+SWITCH OWNERSHIP
+
+2
+testing with 21 2
+R 1 1
+B 25 6
+
+R 22 2
+B 2 5
+
+R 18 3
+B 4 4
+SWITCH OWNERSHIP
+
+3
+testing with 21 3
+R 1 1
+B 25 6
+
+R 22 2
+B 3 5
+
+R 18 3
+B 6 4
+
+R 14 4
+B 9 3
+SWITCH OWNERSHIP
+
+4
+testing with 21 4
+R 1 1
+B 25 6
+
+R 22 2
+B 4 5
+
+R 18 3
+B 8 4
+
+R 14 4
+B 12 3
+SWITCH OWNERSHIP
+
+4
+testing with 21 5
+R 1 1
+B 25 6
+
+R 22 2
+B 5 5
+
+R 18 3
+B 10 4
+
+R 14 4
+B 15 3
+
+R 10 5
+B 20 2
+SWITCH OWNERSHIP
+
+5
+testing with 21 6
+R 1 1
+B 25 6
+
+R 22 2
+B 6 5
+SWITCH OWNERSHIP
+
+2
+testing with 21 7
+R 1 1
+B 25 6
+
+R 22 2
+B 7 5
+
+R 18 3
+B 14 4
+SWITCH OWNERSHIP
+
+3
+testing with 21 8
+R 1 1
+B 25 6
+
+R 22 2
+B 8 5
+
+R 18 3
+B 16 4
+SWITCH OWNERSHIP
+
+3
+testing with 21 9
+R 1 1
+B 25 6
+
+R 22 2
+B 9 5
+
+R 18 3
+B 18 4
+
+R 14 4
+B 2 3
+SWITCH OWNERSHIP
+
+4
+testing with 21 10
+R 1 1
+B 25 6
+
+R 22 2
+B 10 5
+SWITCH OWNERSHIP
+
+2
+testing with 21 11
+R 1 1
+B 25 6
+
+R 22 2
+B 11 5
+
+R 18 3
+B 22 4
+
+R 14 4
+B 8 3
+
+R 10 5
+B 19 2
+SWITCH OWNERSHIP
+
+5
+testing with 21 12
+R 1 1
+B 25 6
+
+R 22 2
+B 12 5
+
+R 18 3
+B 24 4
+
+R 14 4
+B 11 3
+SWITCH OWNERSHIP
+
+4
+testing with 21 13
+R 1 1
+B 25 6
+
+R 22 2
+B 13 5
+
+R 18 3
+B 1 4
+
+R 14 4
+B 14 3
+SWITCH OWNERSHIP
+
+4
+testing with 21 14
+R 1 1
+B 25 6
+
+R 22 2
+B 14 5
+
+R 18 3
+B 3 4
+
+R 14 4
+B 17 3
+
+R 10 5
+B 6 2
+
+R 6 6
+B 20 1
+SWITCH OWNERSHIP
+
+6
+testing with 21 15
+R 1 1
+B 25 6
+
+R 22 2
+B 15 5
+
+R 18 3
+B 5 4
+
+R 14 4
+B 20 3
+
+R 10 5
+B 10 2
+
+R 6 6
+B 25 1
+
+R 2 1
+B 15 6
+SWITCH OWNERSHIP
+
+7
+testing with 21 16
+R 1 1
+B 25 6
+
+R 22 2
+B 16 5
+
+R 18 3
+B 7 4
+
+R 14 4
+B 23 3
+
+R 10 5
+B 14 2
+
+R 6 6
+B 5 1
+
+R 2 1
+B 21 6
+
+R 23 2
+B 12 5
+SWITCH OWNERSHIP
+
+8
+testing with 21 17
+R 1 1
+B 25 6
+
+R 22 2
+B 17 5
+SWITCH OWNERSHIP
+
+2
+testing with 21 18
+R 1 1
+B 25 6
+
+R 22 2
+B 18 5
+
+R 18 3
+B 11 4
+SWITCH OWNERSHIP
+
+3
+testing with 21 19
+R 1 1
+B 25 6
+
+R 22 2
+B 19 5
+
+R 18 3
+B 13 4
+
+R 14 4
+B 7 3
+
+R 10 5
+B 1 2
+
+R 6 6
+B 20 1
+
+R 2 1
+B 14 6
+
+R 23 2
+B 8 5
+
+R 19 3
+B 2 4
+SWITCH OWNERSHIP
+
+9
+testing with 21 20
+R 1 1
+B 25 6
+SWITCH OWNERSHIP
+
+1
+testing with 21 21
+R 1 1
+B 25 6
+
+R 22 2
+B 21 5
+
+R 18 3
+B 17 4
+
+R 14 4
+B 13 3
+
+R 10 5
+B 9 2
+SWITCH OWNERSHIP
+
+5
+testing with 21 22
+R 1 1
+B 25 6
+
+R 22 2
+B 22 5
+SWITCH OWNERSHIP
+
+2
+testing with 21 23
+R 1 1
+B 25 6
+
+R 22 2
+B 23 5
+SWITCH OWNERSHIP
+
+2
+testing with 21 24
+R 1 1
+B 25 6
+
+R 22 2
+B 24 5
+SWITCH OWNERSHIP
+
+2
+testing with 21 25
+R 1 1
+B 25 6
+
+R 22 2
+B 25 5
+
+R 18 3
+B 25 4
+
+R 14 4
+B 25 3
+
+R 10 5
+B 25 2
+SWITCH OWNERSHIP
+
+5
+testing with 22 1
+R 1 1
+B 25 6
+
+R 23 2
+B 1 5
+
+R 20 3
+B 2 4
+SWITCH OWNERSHIP
+
+3
+testing with 22 2
+R 1 1
+B 25 6
+
+R 23 2
+B 2 5
+
+R 20 3
+B 4 4
+
+R 17 4
+B 6 3
+SWITCH OWNERSHIP
+
+4
+testing with 22 3
+R 1 1
+B 25 6
+
+R 23 2
+B 3 5
+
+R 20 3
+B 6 4
+
+R 17 4
+B 9 3
+
+R 14 5
+B 12 2
+SWITCH OWNERSHIP
+
+5
+testing with 22 4
+R 1 1
+B 25 6
+
+R 23 2
+B 4 5
+
+R 20 3
+B 8 4
+
+R 17 4
+B 12 3
+
+R 14 5
+B 16 2
+
+R 11 6
+B 20 1
+
+R 8 1
+B 24 6
+SWITCH OWNERSHIP
+
+7
+testing with 22 5
+R 1 1
+B 25 6
+
+R 23 2
+B 5 5
+
+R 20 3
+B 10 4
+
+R 17 4
+B 15 3
+
+R 14 5
+B 20 2
+SWITCH OWNERSHIP
+
+5
+testing with 22 6
+R 1 1
+B 25 6
+
+R 23 2
+B 6 5
+
+R 20 3
+B 12 4
+
+R 17 4
+B 18 3
+SWITCH OWNERSHIP
+
+4
+testing with 22 7
+R 1 1
+B 25 6
+
+R 23 2
+B 7 5
+
+R 20 3
+B 14 4
+SWITCH OWNERSHIP
+
+3
+testing with 22 8
+R 1 1
+B 25 6
+
+R 23 2
+B 8 5
+
+R 20 3
+B 16 4
+
+R 17 4
+B 24 3
+
+R 14 5
+B 7 2
+
+R 11 6
+B 15 1
+
+R 8 1
+B 23 6
+
+R 5 2
+B 6 5
+SWITCH OWNERSHIP
+
+8
+testing with 22 9
+R 1 1
+B 25 6
+
+R 23 2
+B 9 5
+
+R 20 3
+B 18 4
+
+R 17 4
+B 2 3
+
+R 14 5
+B 11 2
+
+R 11 6
+B 20 1
+
+R 8 1
+B 4 6
+
+R 5 2
+B 13 5
+
+R 2 3
+B 22 4
+SWITCH OWNERSHIP
+
+9
+testing with 22 10
+R 1 1
+B 25 6
+
+R 23 2
+B 10 5
+SWITCH OWNERSHIP
+
+2
+testing with 22 11
+R 1 1
+B 25 6
+
+R 23 2
+B 11 5
+
+R 20 3
+B 22 4
+
+R 17 4
+B 8 3
+
+R 14 5
+B 19 2
+
+R 11 6
+B 5 1
+
+R 8 1
+B 16 6
+
+R 5 2
+B 2 5
+
+R 2 3
+B 13 4
+
+R 24 4
+B 24 3
+SWITCH OWNERSHIP
+
+10
+testing with 22 12
+R 1 1
+B 25 6
+
+R 23 2
+B 12 5
+
+R 20 3
+B 24 4
+SWITCH OWNERSHIP
+
+3
+testing with 22 13
+R 1 1
+B 25 6
+
+R 23 2
+B 13 5
+
+R 20 3
+B 1 4
+
+R 17 4
+B 14 3
+
+R 14 5
+B 2 2
+
+R 11 6
+B 15 1
+
+R 8 1
+B 3 6
+
+R 5 2
+B 16 5
+
+R 2 3
+B 4 4
+SWITCH OWNERSHIP
+
+9
+testing with 22 14
+R 1 1
+B 25 6
+
+R 23 2
+B 14 5
+SWITCH OWNERSHIP
+
+2
+testing with 22 15
+R 1 1
+B 25 6
+
+R 23 2
+B 15 5
+
+R 20 3
+B 5 4
+
+R 17 4
+B 20 3
+SWITCH OWNERSHIP
+
+4
+testing with 22 16
+R 1 1
+B 25 6
+
+R 23 2
+B 16 5
+
+R 20 3
+B 7 4
+SWITCH OWNERSHIP
+
+3
+testing with 22 17
+R 1 1
+B 25 6
+
+R 23 2
+B 17 5
+
+R 20 3
+B 9 4
+
+R 17 4
+B 1 3
+SWITCH OWNERSHIP
+
+4
+testing with 22 18
+R 1 1
+B 25 6
+
+R 23 2
+B 18 5
+
+R 20 3
+B 11 4
+
+R 17 4
+B 4 3
+
+R 14 5
+B 22 2
+SWITCH OWNERSHIP
+
+5
+testing with 22 19
+R 1 1
+B 25 6
+
+R 23 2
+B 19 5
+
+R 20 3
+B 13 4
+
+R 17 4
+B 7 3
+
+R 14 5
+B 1 2
+
+R 11 6
+B 20 1
+
+R 8 1
+B 14 6
+SWITCH OWNERSHIP
+
+7
+testing with 22 20
+R 1 1
+B 25 6
+
+R 23 2
+B 20 5
+
+R 20 3
+B 15 4
+
+R 17 4
+B 10 3
+
+R 14 5
+B 5 2
+SWITCH OWNERSHIP
+
+5
+testing with 22 21
+R 1 1
+B 25 6
+
+R 23 2
+B 21 5
+
+R 20 3
+B 17 4
+SWITCH OWNERSHIP
+
+3
+testing with 22 22
+R 1 1
+B 25 6
+
+R 23 2
+B 22 5
+
+R 20 3
+B 19 4
+
+R 17 4
+B 16 3
+SWITCH OWNERSHIP
+
+4
+testing with 22 23
+R 1 1
+B 25 6
+
+R 23 2
+B 23 5
+SWITCH OWNERSHIP
+
+2
+testing with 22 24
+R 1 1
+B 25 6
+
+R 23 2
+B 24 5
+SWITCH OWNERSHIP
+
+2
+testing with 22 25
+R 1 1
+B 25 6
+
+R 23 2
+B 25 5
+SWITCH OWNERSHIP
+
+2
+testing with 23 1
+R 1 1
+B 25 6
+
+R 24 2
+B 1 5
+SWITCH OWNERSHIP
+
+2
+testing with 23 2
+R 1 1
+B 25 6
+
+R 24 2
+B 2 5
+
+R 22 3
+B 4 4
+SWITCH OWNERSHIP
+
+3
+testing with 23 3
+R 1 1
+B 25 6
+
+R 24 2
+B 3 5
+
+R 22 3
+B 6 4
+
+R 20 4
+B 9 3
+SWITCH OWNERSHIP
+
+4
+testing with 23 4
+R 1 1
+B 25 6
+
+R 24 2
+B 4 5
+
+R 22 3
+B 8 4
+
+R 20 4
+B 12 3
+
+R 18 5
+B 16 2
+SWITCH OWNERSHIP
+
+5
+testing with 23 5
+R 1 1
+B 25 6
+
+R 24 2
+B 5 5
+
+R 22 3
+B 10 4
+
+R 20 4
+B 15 3
+
+R 18 5
+B 20 2
+
+R 16 6
+B 25 1
+SWITCH OWNERSHIP
+
+6
+testing with 23 6
+R 1 1
+B 25 6
+
+R 24 2
+B 6 5
+
+R 22 3
+B 12 4
+
+R 20 4
+B 18 3
+
+R 18 5
+B 24 2
+SWITCH OWNERSHIP
+
+5
+testing with 23 7
+R 1 1
+B 25 6
+
+R 24 2
+B 7 5
+SWITCH OWNERSHIP
+
+2
+testing with 23 8
+R 1 1
+B 25 6
+
+R 24 2
+B 8 5
+
+R 22 3
+B 16 4
+
+R 20 4
+B 24 3
+
+R 18 5
+B 7 2
+
+R 16 6
+B 15 1
+
+R 14 1
+B 23 6
+SWITCH OWNERSHIP
+
+7
+testing with 23 9
+R 1 1
+B 25 6
+
+R 24 2
+B 9 5
+
+R 22 3
+B 18 4
+
+R 20 4
+B 2 3
+SWITCH OWNERSHIP
+
+4
+testing with 23 10
+R 1 1
+B 25 6
+
+R 24 2
+B 10 5
+
+R 22 3
+B 20 4
+SWITCH OWNERSHIP
+
+3
+testing with 23 11
+R 1 1
+B 25 6
+
+R 24 2
+B 11 5
+
+R 22 3
+B 22 4
+
+R 20 4
+B 8 3
+SWITCH OWNERSHIP
+
+4
+testing with 23 12
+R 1 1
+B 25 6
+
+R 24 2
+B 12 5
+
+R 22 3
+B 24 4
+
+R 20 4
+B 11 3
+SWITCH OWNERSHIP
+
+4
+testing with 23 13
+R 1 1
+B 25 6
+
+R 24 2
+B 13 5
+
+R 22 3
+B 1 4
+
+R 20 4
+B 14 3
+
+R 18 5
+B 2 2
+
+R 16 6
+B 15 1
+SWITCH OWNERSHIP
+
+6
+testing with 23 14
+R 1 1
+B 25 6
+
+R 24 2
+B 14 5
+SWITCH OWNERSHIP
+
+2
+testing with 23 15
+R 1 1
+B 25 6
+
+R 24 2
+B 15 5
+
+R 22 3
+B 5 4
+
+R 20 4
+B 20 3
+SWITCH OWNERSHIP
+
+4
+testing with 23 16
+R 1 1
+B 25 6
+
+R 24 2
+B 16 5
+
+R 22 3
+B 7 4
+
+R 20 4
+B 23 3
+
+R 18 5
+B 14 2
+
+R 16 6
+B 5 1
+
+R 14 1
+B 21 6
+
+R 12 2
+B 12 5
+SWITCH OWNERSHIP
+
+8
+testing with 23 17
+R 1 1
+B 25 6
+
+R 24 2
+B 17 5
+
+R 22 3
+B 9 4
+SWITCH OWNERSHIP
+
+3
+testing with 23 18
+R 1 1
+B 25 6
+
+R 24 2
+B 18 5
+SWITCH OWNERSHIP
+
+2
+testing with 23 19
+R 1 1
+B 25 6
+
+R 24 2
+B 19 5
+
+R 22 3
+B 13 4
+
+R 20 4
+B 7 3
+
+R 18 5
+B 1 2
+SWITCH OWNERSHIP
+
+5
+testing with 23 20
+R 1 1
+B 25 6
+
+R 24 2
+B 20 5
+
+R 22 3
+B 15 4
+
+R 20 4
+B 10 3
+
+R 18 5
+B 5 2
+
+R 16 6
+B 25 1
+SWITCH OWNERSHIP
+
+6
+testing with 23 21
+R 1 1
+B 25 6
+
+R 24 2
+B 21 5
+
+R 22 3
+B 17 4
+SWITCH OWNERSHIP
+
+3
+testing with 23 22
+R 1 1
+B 25 6
+
+R 24 2
+B 22 5
+
+R 22 3
+B 19 4
+
+R 20 4
+B 16 3
+SWITCH OWNERSHIP
+
+4
+testing with 23 23
+R 1 1
+B 25 6
+
+R 24 2
+B 23 5
+
+R 22 3
+B 21 4
+
+R 20 4
+B 19 3
+
+R 18 5
+B 17 2
+SWITCH OWNERSHIP
+
+5
+testing with 23 24
+R 1 1
+B 25 6
+
+R 24 2
+B 24 5
+SWITCH OWNERSHIP
+
+2
+testing with 23 25
+R 1 1
+B 25 6
+
+R 24 2
+B 25 5
+SWITCH OWNERSHIP
+
+2
+testing with 24 1
+R 1 1
+B 25 6
+
+R 25 2
+B 1 5
+SWITCH OWNERSHIP
+
+2
+testing with 24 2
+R 1 1
+B 25 6
+
+R 25 2
+B 2 5
+
+R 24 3
+B 4 4
+SWITCH OWNERSHIP
+
+3
+testing with 24 3
+R 1 1
+B 25 6
+
+R 25 2
+B 3 5
+
+R 24 3
+B 6 4
+
+R 23 4
+B 9 3
+SWITCH OWNERSHIP
+
+4
+testing with 24 4
+R 1 1
+B 25 6
+
+R 25 2
+B 4 5
+
+R 24 3
+B 8 4
+
+R 23 4
+B 12 3
+
+R 22 5
+B 16 2
+SWITCH OWNERSHIP
+
+5
+testing with 24 5
+R 1 1
+B 25 6
+
+R 25 2
+B 5 5
+
+R 24 3
+B 10 4
+
+R 23 4
+B 15 3
+
+R 22 5
+B 20 2
+
+R 21 6
+B 25 1
+SWITCH OWNERSHIP
+
+6
+testing with 24 6
+R 1 1
+B 25 6
+
+R 25 2
+B 6 5
+
+R 24 3
+B 12 4
+
+R 23 4
+B 18 3
+
+R 22 5
+B 24 2
+
+R 21 6
+B 5 1
+
+R 20 1
+B 11 6
+SWITCH OWNERSHIP
+
+7
+testing with 24 7
+R 1 1
+B 25 6
+
+R 25 2
+B 7 5
+
+R 24 3
+B 14 4
+
+R 23 4
+B 21 3
+
+R 22 5
+B 3 2
+
+R 21 6
+B 10 1
+
+R 20 1
+B 17 6
+
+R 19 2
+B 24 5
+SWITCH OWNERSHIP
+
+8
+testing with 24 8
+R 1 1
+B 25 6
+
+R 25 2
+B 8 5
+
+R 24 3
+B 16 4
+
+R 23 4
+B 24 3
+SWITCH OWNERSHIP
+
+4
+testing with 24 9
+R 1 1
+B 25 6
+
+R 25 2
+B 9 5
+
+R 24 3
+B 18 4
+SWITCH OWNERSHIP
+
+3
+testing with 24 10
+R 1 1
+B 25 6
+
+R 25 2
+B 10 5
+
+R 24 3
+B 20 4
+SWITCH OWNERSHIP
+
+3
+testing with 24 11
+R 1 1
+B 25 6
+
+R 25 2
+B 11 5
+
+R 24 3
+B 22 4
+
+R 23 4
+B 8 3
+
+R 22 5
+B 19 2
+SWITCH OWNERSHIP
+
+5
+testing with 24 12
+R 1 1
+B 25 6
+
+R 25 2
+B 12 5
+
+R 24 3
+B 24 4
+
+R 23 4
+B 11 3
+SWITCH OWNERSHIP
+
+4
+testing with 24 13
+R 1 1
+B 25 6
+
+R 25 2
+B 13 5
+SWITCH OWNERSHIP
+
+2
+testing with 24 14
+R 1 1
+B 25 6
+
+R 25 2
+B 14 5
+
+R 24 3
+B 3 4
+
+R 23 4
+B 17 3
+
+R 22 5
+B 6 2
+
+R 21 6
+B 20 1
+SWITCH OWNERSHIP
+
+6
+testing with 24 15
+R 1 1
+B 25 6
+
+R 25 2
+B 15 5
+
+R 24 3
+B 5 4
+
+R 23 4
+B 20 3
+
+R 22 5
+B 10 2
+
+R 21 6
+B 25 1
+
+R 20 1
+B 15 6
+SWITCH OWNERSHIP
+
+7
+testing with 24 16
+R 1 1
+B 25 6
+
+R 25 2
+B 16 5
+
+R 24 3
+B 7 4
+
+R 23 4
+B 23 3
+
+R 22 5
+B 14 2
+
+R 21 6
+B 5 1
+
+R 20 1
+B 21 6
+SWITCH OWNERSHIP
+
+7
+testing with 24 17
+R 1 1
+B 25 6
+
+R 25 2
+B 17 5
+
+R 24 3
+B 9 4
+
+R 23 4
+B 1 3
+
+R 22 5
+B 18 2
+
+R 21 6
+B 10 1
+SWITCH OWNERSHIP
+
+6
+testing with 24 18
+R 1 1
+B 25 6
+
+R 25 2
+B 18 5
+
+R 24 3
+B 11 4
+
+R 23 4
+B 4 3
+
+R 22 5
+B 22 2
+
+R 21 6
+B 15 1
+
+R 20 1
+B 8 6
+SWITCH OWNERSHIP
+
+7
+testing with 24 19
+R 1 1
+B 25 6
+
+R 25 2
+B 19 5
+
+R 24 3
+B 13 4
+
+R 23 4
+B 7 3
+
+R 22 5
+B 1 2
+
+R 21 6
+B 20 1
+SWITCH OWNERSHIP
+
+6
+testing with 24 20
+R 1 1
+B 25 6
+
+R 25 2
+B 20 5
+
+R 24 3
+B 15 4
+
+R 23 4
+B 10 3
+
+R 22 5
+B 5 2
+
+R 21 6
+B 25 1
+
+R 20 1
+B 20 6
+SWITCH OWNERSHIP
+
+7
+testing with 24 21
+R 1 1
+B 25 6
+
+R 25 2
+B 21 5
+
+R 24 3
+B 17 4
+
+R 23 4
+B 13 3
+
+R 22 5
+B 9 2
+
+R 21 6
+B 5 1
+
+R 20 1
+B 1 6
+
+R 19 2
+B 22 5
+SWITCH OWNERSHIP
+
+8
+testing with 24 22
+R 1 1
+B 25 6
+
+R 25 2
+B 22 5
+SWITCH OWNERSHIP
+
+2
+testing with 24 23
+R 1 1
+B 25 6
+
+R 25 2
+B 23 5
+
+R 24 3
+B 21 4
+
+R 23 4
+B 19 3
+
+R 22 5
+B 17 2
+SWITCH OWNERSHIP
+
+5
+testing with 24 24
+R 1 1
+B 25 6
+
+R 25 2
+B 24 5
+
+R 24 3
+B 23 4
+SWITCH OWNERSHIP
+
+3
+testing with 24 25
+R 1 1
+B 25 6
+
+R 25 2
+B 25 5
+
+R 24 3
+B 25 4
+
+R 23 4
+B 25 3
+SWITCH OWNERSHIP
+
+4
+testing with 25 1
+R 1 1
+B 25 6
+
+R 1 2
+B 1 5
+SWITCH OWNERSHIP
+
+2
+testing with 25 2
+R 1 1
+B 25 6
+
+R 1 2
+B 2 5
+SWITCH OWNERSHIP
+
+2
+testing with 25 3
+R 1 1
+B 25 6
+
+R 1 2
+B 3 5
+SWITCH OWNERSHIP
+
+2
+testing with 25 4
+R 1 1
+B 25 6
+
+R 1 2
+B 4 5
+
+R 1 3
+B 8 4
+SWITCH OWNERSHIP
+
+3
+testing with 25 5
+R 1 1
+B 25 6
+
+R 1 2
+B 5 5
+
+R 1 3
+B 10 4
+
+R 1 4
+B 15 3
+SWITCH OWNERSHIP
+
+4
+testing with 25 6
+R 1 1
+B 25 6
+
+R 1 2
+B 6 5
+
+R 1 3
+B 12 4
+
+R 1 4
+B 18 3
+
+R 1 5
+B 24 2
+SWITCH OWNERSHIP
+
+5
+testing with 25 7
+R 1 1
+B 25 6
+
+R 1 2
+B 7 5
+
+R 1 3
+B 14 4
+
+R 1 4
+B 21 3
+
+R 1 5
+B 3 2
+
+R 1 6
+B 10 1
+SWITCH OWNERSHIP
+
+6
+testing with 25 8
+R 1 1
+B 25 6
+
+R 1 2
+B 8 5
+
+R 1 3
+B 16 4
+
+R 1 4
+B 24 3
+SWITCH OWNERSHIP
+
+4
+testing with 25 9
+R 1 1
+B 25 6
+
+R 1 2
+B 9 5
+
+R 1 3
+B 18 4
+
+R 1 4
+B 2 3
+
+R 1 5
+B 11 2
+
+R 1 6
+B 20 1
+SWITCH OWNERSHIP
+
+6
+testing with 25 10
+R 1 1
+B 25 6
+
+R 1 2
+B 10 5
+
+R 1 3
+B 20 4
+
+R 1 4
+B 5 3
+
+R 1 5
+B 15 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 10 6
+
+R 1 2
+B 20 5
+SWITCH OWNERSHIP
+
+8
+testing with 25 11
+R 1 1
+B 25 6
+
+R 1 2
+B 11 5
+
+R 1 3
+B 22 4
+
+R 1 4
+B 8 3
+
+R 1 5
+B 19 2
+
+R 1 6
+B 5 1
+
+R 1 1
+B 16 6
+
+R 1 2
+B 2 5
+SWITCH OWNERSHIP
+
+8
+testing with 25 12
+R 1 1
+B 25 6
+
+R 1 2
+B 12 5
+SWITCH OWNERSHIP
+
+2
+testing with 25 13
+R 1 1
+B 25 6
+
+R 1 2
+B 13 5
+
+R 1 3
+B 1 4
+SWITCH OWNERSHIP
+
+3
+testing with 25 14
+R 1 1
+B 25 6
+
+R 1 2
+B 14 5
+
+R 1 3
+B 3 4
+
+R 1 4
+B 17 3
+SWITCH OWNERSHIP
+
+4
+testing with 25 15
+R 1 1
+B 25 6
+
+R 1 2
+B 15 5
+
+R 1 3
+B 5 4
+
+R 1 4
+B 20 3
+
+R 1 5
+B 10 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 15 6
+
+R 1 2
+B 5 5
+
+R 1 3
+B 20 4
+
+R 1 4
+B 10 3
+
+R 1 5
+B 25 2
+SWITCH OWNERSHIP
+
+11
+testing with 25 16
+R 1 1
+B 25 6
+
+R 1 2
+B 16 5
+
+R 1 3
+B 7 4
+
+R 1 4
+B 23 3
+
+R 1 5
+B 14 2
+
+R 1 6
+B 5 1
+
+R 1 1
+B 21 6
+SWITCH OWNERSHIP
+
+7
+testing with 25 17
+R 1 1
+B 25 6
+
+R 1 2
+B 17 5
+
+R 1 3
+B 9 4
+
+R 1 4
+B 1 3
+SWITCH OWNERSHIP
+
+4
+testing with 25 18
+R 1 1
+B 25 6
+
+R 1 2
+B 18 5
+
+R 1 3
+B 11 4
+SWITCH OWNERSHIP
+
+3
+testing with 25 19
+R 1 1
+B 25 6
+
+R 1 2
+B 19 5
+
+R 1 3
+B 13 4
+
+R 1 4
+B 7 3
+
+R 1 5
+B 1 2
+SWITCH OWNERSHIP
+
+5
+testing with 25 20
+R 1 1
+B 25 6
+
+R 1 2
+B 20 5
+SWITCH OWNERSHIP
+
+2
+testing with 25 21
+R 1 1
+B 25 6
+
+R 1 2
+B 21 5
+
+R 1 3
+B 17 4
+
+R 1 4
+B 13 3
+
+R 1 5
+B 9 2
+
+R 1 6
+B 5 1
+
+R 1 1
+B 1 6
+SWITCH OWNERSHIP
+
+7
+testing with 25 22
+R 1 1
+B 25 6
+
+R 1 2
+B 22 5
+SWITCH OWNERSHIP
+
+2
+testing with 25 23
+R 1 1
+B 25 6
+
+R 1 2
+B 23 5
+
+R 1 3
+B 21 4
+
+R 1 4
+B 19 3
+
+R 1 5
+B 17 2
+
+R 1 6
+B 15 1
+SWITCH OWNERSHIP
+
+6
+testing with 25 24
+R 1 1
+B 25 6
+
+R 1 2
+B 24 5
+
+R 1 3
+B 23 4
+SWITCH OWNERSHIP
+
+3
+testing with 25 25
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+R 1 5
+B 25 2
+
+R 1 6
+B 25 1
+
+R 1 1
+B 25 6
+
+R 1 2
+B 25 5
+
+R 1 3
+B 25 4
+
+R 1 4
+B 25 3
+
+1000
+15
+1
