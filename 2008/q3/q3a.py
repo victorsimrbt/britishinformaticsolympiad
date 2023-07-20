@@ -27,7 +27,7 @@ def op4(shirts):
 
 operations = [op1,op2,op3,op4]
 
-print(op4([1, 2, 3, 4, 5, 6,7]))
+# print(op4([1, 2, 3, 4, 5, 6,7]))
 
 visited = [] # List to keep track of visited nodes.
 queue = []     #Initialize a queue

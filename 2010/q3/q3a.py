@@ -4,7 +4,7 @@ from copy import deepcopy
 num_jars,target = [int(value) for value in input().split()]
 capacity = [int(value) for value in input().split()]
 
-visited = []
+visited = set()
 queue = [] 
 
 def move(idx_1,idx_2,volume):
@@ -48,7 +48,7 @@ def generate_neighbours(volume):
     return neighbours
     
 def bfs(visited,node):
-    visited.append(node)
+    visited.add(''.join([str(char) for char in node]))
     queue.append([node,1])
     
     while queue:
@@ -58,8 +58,8 @@ def bfs(visited,node):
         
         neighbours = generate_neighbours(new)
         for neighbour in neighbours:
-            if neighbour not in visited:
-                visited.append(neighbour)
+            if ''.join([str(char) for char in neighbour])not in visited:
+                visited.add(''.join([str(char) for char in neighbour]))
                 queue.append([neighbour,distance + 1])
             if target in neighbour:
                 print(distance)

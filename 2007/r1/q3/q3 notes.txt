@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+REALLY FRICKING HARD
+
+=======
+Idk
+>>>>>>> ceded62aa544a52bcb5a1f3d4bb9c5254c28a161
