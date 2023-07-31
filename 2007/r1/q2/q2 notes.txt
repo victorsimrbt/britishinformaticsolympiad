@@ -13,12 +13,8 @@ simple given that a is created correctly (FULL MARKS)
 c) No. Win happens when surrounded by opposing pieces. Cannot surround by both (FULL MARKS)
 
 
-d) idk bro 
-
-<<<<<<< HEAD
+d) idk
 plan: httpplay with working with the representation directly
 
 Solved. Be careful whe nreading instructions, dont make random assumptions
 
-=======
->>>>>>> ceded62aa544a52bcb5a1f3d4bb9c5254c28a161

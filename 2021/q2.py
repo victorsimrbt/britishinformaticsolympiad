@@ -152,7 +152,7 @@ turn = 0
 for i in range(5):
     turn %= p
     turn += 1
-    print("TURN",turn)
+    # print("TURN",turn)
     positions[turn] = traverse(positions[turn],traversals[turn],turn)
     for i in range(1,p+1):
         positions[i] = reset_position(positions[i])
@@ -169,7 +169,7 @@ for i in range(1,p+1):
     print(score[i])
 
 outer_edges = []
-print(markers)
+# print(markers)
 for triangle in markers.keys():
     neighbors = neighbor(triangle)
     # print(triangle,neighbors)
