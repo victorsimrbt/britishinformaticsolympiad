@@ -10,8 +10,8 @@ Initial Approach:
 
 recursively solve, function returns when only one character left
 
-also it is impossible for any  bird apart from the child described to have no offspring:
-    -  if it is not the child and involved, it must be related to the parents in some way
+also it is impossible for any bird apart from the child described to have no offspring:
+    - if it is not the child and involved, it must be related to the parents in some way
     - only way related is to be parent of the bird
     - so must have offspring
 
