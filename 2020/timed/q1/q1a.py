@@ -21,11 +21,8 @@ def num_to_rom(num):
     while num > 0:
         for key in valid:
             if num >= key:
-                # print("KEY",key)
                 num -= key
                 rom += convert[key]
-        # print(num,rom)
-        # time.sleep(1)
     return rom
 
 def lookandsay(string):

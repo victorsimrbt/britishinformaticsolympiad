@@ -12,6 +12,7 @@ def len_combos(counts):
     for count in counts:
         len_combos = len_combos / math.factorial(count)
     return len_combos
+
 def locate_string(counts,idx):
     global path
     if idx == 0 or counts == [0,0,0,0]:
@@ -27,6 +28,7 @@ def locate_string(counts,idx):
                 path.append(i)
                 if locate_string(counts_copy,idx):
                     return True
+
 def list_2_string(path):
     final_string = ''
     for value in path:

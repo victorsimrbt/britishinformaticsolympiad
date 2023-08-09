@@ -1,0 +1,5 @@
+Immediately strikes me as a graph theory problem
+Same as redistributing gifts
+
+Use DFS to find the first path that connects the first node to all nodes
+

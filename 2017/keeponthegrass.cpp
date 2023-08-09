@@ -23,8 +23,8 @@ char locate_quad(pair<int,int> coord,pair<int,int> centre){
     if (y > x && y > -x)
         return 'U';
     if (y < x && y < -x)
-        return 'D'
-    return "O"
+        return 'D';
+    return 'O';
 }
 
 pair<pair<int,int>,char> find_quads(pair<int,int> coord, pair<int,int> centre, int n){
@@ -42,7 +42,7 @@ pair<pair<int,int>,char> find_quads(pair<int,int> coord, pair<int,int> centre, i
     pair<pair<int,int>,char> return_value;
     return_value.first = new_centre;
     return_value.second = quad;
-    return return_value
+    return return_value;
 }
 
 int main(){
@@ -54,7 +54,7 @@ int main(){
     coord.second = y;
     int n = 18;
     while (n > 0){
-        pair<pair<int,int>,char> return_value = find_quads(coord,centre,n)
+        pair<pair<int,int>,char> return_value = find_quads(coord,centre,n);
     }
     return 0;
 }
