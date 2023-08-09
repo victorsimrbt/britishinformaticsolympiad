@@ -7,6 +7,14 @@ Initial Approach:
 - the father must be the characters that come after the child in the antiquated record
 - the characters that come before the child in the antiquated record it must be the mother
 
+
+recursively solve, function returns when only one character left
+
+also it is impossible for any  bird apart from the child described to have no offspring:
+    -  if it is not the child and involved, it must be related to the parents in some way
+    - only way related is to be parent of the bird
+    - so must have offspring
+
 worked example:
 7 3 4 1 8 9 6 5 2
 4 3 1 9 8 6 7 5 2
@@ -27,6 +35,9 @@ worked example:
     the mother must be 3
     the mothers' mother must be 4
     the mothers' father is 1 8 9 6 (1 9 8 6)
+
+
+
 
 - seems doable but idk how fast the algorithm would be
 
