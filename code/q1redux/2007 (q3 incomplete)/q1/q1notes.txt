@@ -1,0 +1,13 @@
+'''
+15m 18s for a,b,c
+
+1a) 24/24
+1b) 2/2
+1c) 3/4 ?? (hard to spot)
+
+improvements:
+    really hard to catch q1c error
+    had to double take for q1a so read question more carefully next time
+
+29/30
+'''
