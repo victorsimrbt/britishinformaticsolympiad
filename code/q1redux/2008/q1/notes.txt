@@ -1,9 +1,0 @@
-1a) 25/25
-23:32 (forgot how to write efficient sieve, managed to derive and implement)
-1b) 3/3
-1c) 2/2
-02:27 (1b and 1c)
-
-
-Score: 30/30 :)
-Time: 26:00

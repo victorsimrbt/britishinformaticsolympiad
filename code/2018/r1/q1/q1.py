@@ -15,7 +15,6 @@ while debt > 0:
     repay = min(repay,debt)
     repay = round(repay,5)
     repay = math.ceil(round(threedp(repay)*100,5))/100
-    #print(debt,repay,repaid)
     debt -= repay
     debt = round(debt,5)
     repaid += repay

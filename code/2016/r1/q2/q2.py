@@ -75,6 +75,8 @@ for i in range(n-1):
     add_person(num2pos(p))
     
     head = 0
+    # print(overcrowded)
+    # print(overcrowded)
     while head < len(overcrowded):
         coord = overcrowded[head]
         adj = neighbors(coord)
@@ -82,9 +84,10 @@ for i in range(n-1):
             add_person(square)
         people[tuple(coord)] = people[tuple(coord)] % 4
         head += 1
+        # print(overcrowded)
         # print_solution()
         # print("YAH")
-    
+    # print(len(overcrowded))
     overcrowded = []
     # print_solution()
     # print()

@@ -1,1 +1,3 @@
 Complete all year R1 questions and written questions
+Complete all year R2 questions with cpp
+Cover all the USACO until Gold or Platinum
