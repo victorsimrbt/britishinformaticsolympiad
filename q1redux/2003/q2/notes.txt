@@ -1,0 +1,6 @@
+2a) 24/27
+(unsolved test case involves the wave resetting beyond the boundary again)
+2b) 0/3
+2c) 0/4
+
+24/34

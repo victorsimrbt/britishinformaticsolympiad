@@ -1,0 +1,8 @@
+'''
+3,5,7,
+
+BBBR
+RRRR
+GGGG
+GGGR
+'''

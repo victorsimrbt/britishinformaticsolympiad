@@ -1,0 +1,22 @@
+1a) 23/23
+1b) 2/2
+1c) 3/3
+1d) 3/3
+
+31/31
+
+2a) 0/24 (idk why...)
+2b) 2/2
+2c) 3/4
+2d) 4/4
+
+9/34
+
+3a) 18/27 (TLE?)
+3b) 0/2 (idk?)
+3c) 0/3 (easy to get right)
+3d) 3/3
+
+21/35
+
+61/100 (disappointing but unexpectedly diffiuclt)
