@@ -1,11 +1,10 @@
 # BIO Redux
 
 Main Weakness:
-- CARELESSNESS IN CODE 
+- carelessnes
 - practice writing stress tests
 - Written questions are now relatively easy
 - Cannot find the bugs in the programs
-- If I improve the quality of my coding, it should be perfect
 - Both/either write less buggy code or debug more effectively
 
 Strategy:
