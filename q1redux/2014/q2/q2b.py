@@ -146,8 +146,6 @@ for r in range(4):
                                 g_score += len(path)
                 # print(r_score,g_score)
                 if not(r_score > g_score):
-                    print("SCORES",r_score,g_score)
-                    print("WOOOOOOOAH",r,c,new)
                     ans += 1
                 # print(r_score,g_score)
 print(ans)
