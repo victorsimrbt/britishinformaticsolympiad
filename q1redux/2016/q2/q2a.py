@@ -1,6 +1,4 @@
-'''
-cant figure out why this code isnt working
-'''
+
 p,s,n = map(int,input().split())
 # sequence = [0]
 sequence = list(map(int,input().split()))
