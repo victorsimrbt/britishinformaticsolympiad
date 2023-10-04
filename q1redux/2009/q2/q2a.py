@@ -35,7 +35,6 @@ def find_block(row,column):
         # print("WHAT",visited)
         return len(visited),list(visited)
     else:
-        # print("FUCK")
         return 0,0
 
 def play_move(grid):
