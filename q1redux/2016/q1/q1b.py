@@ -8,7 +8,7 @@ LRRR
 import fractions
 
 
-class poop:
+class :
     def __init__(self):
         self.numerator = None
         self.denominator = None
@@ -24,7 +24,7 @@ def promenade(string):
     if string == "R":
         return fractions.Fraction(2/1)
     
-    frac1 = poop()
+    frac1 = fraction()
     # print(frac1)
     frac1.numerator = 0
     frac1.denominator = 1
@@ -34,7 +34,7 @@ def promenade(string):
             frac1 = promenade(string[:i])
             break
     
-    frac2 = poop()
+    frac2 = fraction()
     frac2.numerator = 1
     frac2.denominator = 0
     for i in reversed(range(len(string))):
