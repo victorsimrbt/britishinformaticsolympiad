@@ -2,6 +2,13 @@ grid = {}
 import copy
 import time
 '''
+Wrong because of weird edgecase of 
+
+\/a\/
+where a is an empty triangle.
+Apparently, this is connected to something else so it is wrong
+'''
+'''
 traverse(edge):
 1. Move one edge clockwise on the inside triangle
 2. If edge unoccupied, return edge
@@ -74,29 +81,6 @@ def get_direction(triangle):
 
 def second_elem(a):
     return a[1]
-def print_grid(grid):
-    minx = sorted(grid.keys())[0][0]
-    maxx = sorted(grid.keys())[-1][0]
-    
-    miny = sorted(grid.keys(),key=second_elem)[0][1]
-    maxy = sorted(grid.keys(),key=second_elem)[-1][1]
-    
-    for x in range(minx,maxx):
-        row = ''
-        for y in range(miny,maxy):
-            direction = get_direction([x,y])
-            if direction == "U":
-                string = " / \ "
-            else:
-                string = " \ / "
-            if (x,y) in grid:
-                if direction == "U":
-                    string = " /{}\ "
-                else:
-                    string = " \{}/ "
-                string = string.format(grid[(x,y)])
-            row += string[1:-1]
-        print(row)
                 
 '''
 play(player,traversals):
@@ -108,6 +92,7 @@ check if player is in occupied position
 def play(player,traversals):
     in_tri,out_tri = map(tuple,positions[player])
     if in_tri in grid and out_tri in grid:
+        # prin
         # ! in occupied
         highest_row = 0
         for key in grid.keys():
@@ -124,15 +109,16 @@ def play(player,traversals):
         out_tri = [min_row-1,highest_row]
         positions[player] = [in_tri,out_tri]
         # print("REPOSITIONED",positions[player])
+    print(positions[player])
     start_position = copy.deepcopy(positions[player])
     marker = player+1
     for i in range(traversals):
         positions[player] = traverse(positions[player])
-        print(positions[player])
+        print("   ",positions[player])
         # print()
         in_tri,out_tri = positions[player]
         if completes_tri(out_tri,marker):
-            # print("COMPLETES TRI")
+            print("COMPLETES TRI")
             break
     start_in,start_out = start_position
     start_out = tuple(start_out)
@@ -252,21 +238,22 @@ grid[(0,0)] = 0
 for i in range(m):
     player = i % p
     # print(player)
-    play(player,traversals[player])
-    # print(grid)
     # print(positions)
-    print()
+    play(player,traversals[player])
+    print(grid)
     
+    # print()
+# print(grid)
 visited = []
 for coord in grid.keys():
-    for player in range(p):
+    # for player in range(p):
         # print(coord)
-        big_tri = count_score(coord,player+1)
-        if big_tri:
-            big_tri = sorted(big_tri)
-            if not(big_tri) in visited:
-                visited.append(big_tri)
-                scores[player] += 1
+    big_tri = count_score(coord,grid[coord])
+    if big_tri:
+        big_tri = sorted(big_tri)
+        if not(big_tri) in visited:
+            visited.append(big_tri)
+            scores[player] += 1
 # print(visited)
 for item in scores:
     print(item)

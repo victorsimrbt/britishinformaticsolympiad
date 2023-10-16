@@ -1,0 +1,163 @@
+2007
+    q1) Cards
+        a) SOLVED in q1redux
+        b) SOLVED in q1redux
+        c) SOLVED in code
+    q2) Mu Torere
+        a) SOLVED in q1redux
+        b) SOLVED in q1redux
+        c) SOLVED in q1redux
+        d) UNSOLVED!!
+    q3)
+        a) UNSOLVED!!
+        b) UNSOLVED!!
+        c) UNSOLVED!!
+        d) UNSOLVED!!
+
+2008
+    q1) Goldbach Conjecture
+        a) SOLVED in q1redux
+        b) SOLVED in q1redux
+        c) SOLVED in q1redux
+    q2) Enigma Machine
+        a) SOLVED in q1redux
+        b) SOLVED in q1redux
+        c) SOLVED in q1redux
+        d) SOLVED in q1redux
+    q3) Shirts
+        a) SOLVED in q1redux
+        b) SOLVED in q1redux
+        c) SOLVED in q1redux
+        d) SOLVED in q1redux
+
+2009
+    q1) Digit Words
+        a) SOLVED in q1redux
+        b) SOLVED in q1redux
+        c) UNSOLVED!!
+    q2) Puzzle Game
+        a) SOLVED in q1redux
+        b) SOLVED in q1redux
+        c) SOLVED in q1redux
+        d) SOLVED in q1redux
+    q3) Child's Play
+        a) SOLVED in q1redux
+        b) SOLVED in q1redux
+        c) SOLVED in q1redux
+        d) SOLVED in q1redux
+
+2010
+    q1) Anagrams
+        a) SOLVED in q1redux
+        b) SOLVED in q1redux
+        c) SOLVED in q1redux
+    q2) Tipping Die
+        a) SOLVED in q1redux
+        b) SOLVED in q1redux
+        c) SOLVED in q1redux
+        d) SOLVED in q1redux
+    q3) Jug(gling)
+        a) SOLVED in q1redux
+        b) SOLVED in q1redux
+        c) SOLVED in q1redux
+        d) UNSOLVED
+
+2011
+    q1) Fibonacci Letters
+        a) SOLVED in q1redux
+        b) SOLVED in q1redux
+        c) SOLVED in q1redux
+    
+    q2) Accordion Patience
+        a) SOLVED in q1redux
+        b) SOLVED in q1redux
+        c) SOLVED in q1redux
+        d) SOLVED in q1redux
+
+    q3) Palindrome Question
+        a) SOLVED in q1redux
+        b) SOLVED in q1redux
+        c) SOLVED in q1redux
+        d) SOLVED in q1redux
+
+2012
+    q1) Distinct Prime Factorisation
+        a) SOLVED in q1redux
+        b) SOLVED in q1redux
+        c) SOLVED in q1redux
+    
+    q2) On the Right Track
+        a) SOLVED in q1redux
+        b) SOLVED in q1redux
+        c) SOLVED in replit
+        d) SOLVED in replit
+
+    q3) Palindrome Question
+        a) SOLVED in code
+        b) UNSOLVED!!
+        c) UNSOLVED!!
+        d) UNSOLVED!!
+
+2013
+    q1) Clocks
+        a) SOLVED in code
+        b) UNSOLVED!!
+        c) UNSOLVED!!
+    
+    q2) Neutron
+        a) SOLVED in code
+        b) UNSOLVED!!
+        c) UNSOLVED!!
+
+    q3) Unlock
+        a) UNSOLVED!!
+        b) UNSOLVED!!
+        c) UNSOLVED!!
+        d) UNSOLVED!!
+
+2014
+    q1) Block Palindromes
+        a) SOLVED in q1redux
+        b) SOLVED in q1redux
+        c) SOLVED in q1redux
+    
+    q2) Loops
+        a) SOLVED in q1redux
+        b) SOLVED in q1redux
+        c) UNSOLVED!!
+        d) SOLVED!!
+
+    q3) Increasing Passwords
+        a) SOLVED in q1redux
+        b) SOLVED in q1redux
+        c) SOLVED in q1redux
+        d) UNSOLVED!!
+
+2015
+    q1) Block Palindromes
+        a) SOLVED in q1redux
+        b) SOLVED in q1redux
+        c) SOLVED in q1redux
+    
+    q2) Battleships
+        a) SOLVED in q1redux
+        b) SOLVED in q1redux
+        c) UNSOLVED!!
+        d) SOLVED in q1redux
+
+    q3) Modern Art
+        a) SOLVED in q1redux
+        b) SOLVED in q1redux
+        c) SOLVED in q1redux
+        d) SOLVED in q1redux
+
+2016
+    
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+
